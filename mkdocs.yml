@@ -1,0 +1,13 @@
+site_name: e-Título
+
+theme:
+  name: material
+  language: 'pt'
+  logo: 'assets/icons/eTitulo.png'
+
+styles_css:
+  - styles/style.css
+
+pages:
+  - Sobre: index.md
+  - Planejamento: planejamento.md
