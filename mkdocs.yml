@@ -5,9 +5,9 @@ theme:
   language: 'pt'
   logo: 'assets/icons/eTitulo.png'
 
-styles_css:
-  - styles/style.css
+extra_css:
+  - stylesheets/extra.css
 
-pages:
+nav:
   - Sobre: index.md
   - Planejamento: planejamento.md
