@@ -6,8 +6,13 @@
 <br />
 
 <p style="text-indent: 20px; text-align: justify">
-Repositório do grupo 06 - **e-Título**, destinado ao desenvolvimento da documentação do projeto final da disciplina de Requisitos de Software, ministrado pelo professor André Barros de Sales, na Universidade de Brasília - Gama, durante o período 2020/2.
+Repositório do grupo 06 - e-Título, destinado ao desenvolvimento da documentação do projeto final da disciplina de Requisitos de Software, ministrado pelo professor André Barros de Sales, na Universidade de Brasília - Gama, durante o período 2020/2.
 </p>
+
+<p style="text-indent: 20px; text-align: justify">
+O e-Título é um aplicativo móvel para obtenção da via digital do título de eleitor. O aplicativo permite o acesso rápido e fácil às informações do eleitor cadastradas na Justiça Eleitoral e apresenta dados como: zona eleitoral, situação cadastral, além da certidão de quitação eleitoral e da certidão de crimes eleitorais.
+</p>
+
 
 # Contribuidores
 

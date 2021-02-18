@@ -4,6 +4,7 @@ theme:
   name: material
   language: 'pt'
   logo: 'assets/icons/eTitulo.png'
+  favicon: 'assets/icons/codercat.png'
 
 extra_css:
   - stylesheets/extra.css
@@ -11,3 +12,5 @@ extra_css:
 nav:
   - Sobre: index.md
   - Planejamento: planejamento.md
+  - Pré-rastreabilidade:
+      - Rich Pictures: pre_rastreabilidade/rich_pictures.md

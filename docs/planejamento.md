@@ -1,12 +1,6 @@
 # Planejamento
 
-## 1. Introdução
-
-<p style="text-indent: 20px; text-align: justify">
-
-</p>
-
-## 2. Cronogramas
+## 1. Cronograma
 
 <p style="text-indent: 20px; text-align: justify">
 A partir dos prazos estipulados pela disciplina e pela disponibilidade dos integrantes, o grupo organizou um cronograma com o intuito de realizar as tarefas propostas no projeto.
@@ -14,8 +8,34 @@ A partir dos prazos estipulados pela disciplina e pela disponibilidade dos integ
 
 OBS.: Essas datas podem mudar futuramente.
 
+### 1.1 Cronograma de atividades
 
-## n. Ferramentas Utilizadas
+|Título|Data|Descrição|
+|:------:|:-----------------------------:|:----------------------------------:|
+| Pré-Rastreabilidade | 15/02 - 19/02| Planejamento do projeto e RichPicture|
+| Elicitação de Requisitos | 20/02 - 11/03  | Técnicas e Priorização|
+| Modelagem de Requisitos | 12/03 - 21/03 | Cenários , Léxico, Use Case, Especificação Suplementar|
+| Modelagem de Requisitos - Ágil | 22/03 - 31/03 | Histórias de Usuário, Backlogs, NFR Framework |
+| Análise de Requisitos | 01/04 - 11/04 | Verificação e Validação |
+| Pós-Rastreabilidade | 12/04 - 20/04 | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos |
+| Projeto final | 21/04 - 03/05 | Desenvolver a apresentação final do projeto |
+
+### 1.2 Disponibilidade dos integrantes
+
+<p style="text-indent: 20px; text-align: justify">
+Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio grupo ter conhecimento de quando todos os partipantes poderão se runir para discutir e trabalhar no projeto. 
+</p>
+
+<!-- <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="600px" src="../assets/tabela_horarios/tabela_horarios.jpg">
+  <div style="width: 600px; margin-top: 10px; display: flex; justify-content: center; align-items: center">
+    <img width="200px" src="../assets/tabela_horarios/tabela_horarios_legenda1.jpg">
+    <img width="200px" src="../assets/tabela_horarios/tabela_horarios_legenda2.jpg" style="margin-left: 10px">
+  </div>
+</div> -->
+
+
+## 2. Ferramentas Utilizadas
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
@@ -33,4 +53,7 @@ OBS.: Essas datas podem mudar futuramente.
 
 
 
-
+## Versionamento
+| Versão | Data | Modificação | Autor |
+|--|--|--|--|
+| 1.0 | 18/02/2021 | Planejamento do trabalho | Guilherme, Gabriel, Ian, Ítalo |
