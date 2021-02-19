@@ -23,7 +23,7 @@ OBS.: Essas datas podem mudar futuramente.
 ### 1.2 Disponibilidade dos integrantes
 
 <p style="text-indent: 20px; text-align: justify">
-Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio grupo ter conhecimento de quando todos os partipantes poderão se runir para discutir e trabalhar no projeto. 
+Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio grupo ter conhecimento de quando todos os partipantes poderão se reunir para discutir e trabalhar no projeto. 
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
