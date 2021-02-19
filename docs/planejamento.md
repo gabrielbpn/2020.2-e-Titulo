@@ -39,16 +39,16 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
-|<img width="150px" src="../assets/icons/eTitulo.png" alt="eTitulo">|e-titulo|Aplicativo que permite o porte digital do documento de título de eleitor|
-|<img width="150px" src="../assets/icons/github.png" alt="GitHub_icon">|GitHub|Ferramenta de controle de versão de arquivos e código|
-|<img width="150px" src="../assets/icons/microsoft.png" alt="MicrosoftWord_icon">|Microsoft Word|Processador de texto para arquivos .doc|
-|<img width="150px" src="../assets/icons/canva.png" alt="Canva_icon">|Canva|Plataforma de design gráfico e produção de slides|
-|<img width="90px" src="../assets/icons/figma.svg" alt="Figma_icon">|Figma|Ferramenta de edição de imagens|
-|<img width="150px" src="../assets/icons/lucidChart.png" alt="Lucidchart_icon">|Lucidchart|Plataforma de desenho e compartilhamento de diagramas|
-|<img width="150px" src="../assets/icons/teams.png" alt="MicrosoftTeams_icon">|Microsoft Teams|Ferramenta de chamada e gravação de vídeos|
-|<img width="150px" src="../assets/icons/discord.png" alt="Discord_icon">|Discord|Ferramenta principal de chamada entre o grupo|
-|<img width="150px" src="../assets/icons/telegram.png" alt="Telegram_icon">|Telegram|Mensageiro principal do grupo para diálogo ocasional|
-|<img width="150px" src="../assets/icons/visualStudioCode.png" alt="VSCode_icon">|VSCode|Editor de código-fonte|
+|<img width="150px" height="150px" src="../assets/icons/eTitulo.png" alt="eTitulo">|e-titulo|Aplicativo que permite o porte digital do documento de título de eleitor|
+|<img width="150px" height="150px" src="../assets/icons/github.png" alt="GitHub_icon">|GitHub|Ferramenta de controle de versão de arquivos e código|
+|<img width="150px" height="150px" src="../assets/icons/microsoft.png" alt="MicrosoftWord_icon">|Microsoft Word|Processador de texto para arquivos .doc|
+|<img width="150px" height="150px" src="../assets/icons/canva.png" alt="Canva_icon">|Canva|Plataforma de design gráfico e produção de slides|
+|<img width="150px" height="150px" style="border-radius:50%" src="../assets/icons/figma.png" alt="Figma_icon">|Figma|Ferramenta de edição de imagens|
+|<img width="150px" height="150px" src="../assets/icons/lucidChart.png" alt="Lucidchart_icon">|Lucidchart|Plataforma de desenho e compartilhamento de diagramas|
+|<img width="150px" height="150px" src="../assets/icons/teams.png" alt="MicrosoftTeams_icon">|Microsoft Teams|Ferramenta de chamada e gravação de vídeos|
+|<img width="150px" height="150px" src="../assets/icons/discord.png" alt="Discord_icon">|Discord|Ferramenta principal de chamada entre o grupo|
+|<img width="150px" height="150px" src="../assets/icons/telegram.png" alt="Telegram_icon">|Telegram|Mensageiro principal do grupo para diálogo ocasional|
+|<img width="150px" height="150px" src="../assets/icons/visualStudioCode.png" alt="VSCode_icon">|VSCode|Editor de código-fonte|
 
 
 
@@ -56,4 +56,6 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 18/02/2021 | Planejamento do trabalho | Guilherme, Gabriel, Ian, Ítalo |
+| 1.0 | 18/02/2021 | Planejamento do trabalho | Gabriel, Guilherme, Ian, Ítalo |
+| 1.1 | 18/02/2021 | Criando o site da documentação | Ian |
+| 1.2 | 18/02/2021 | Arrumando alguns bugs das imagens | Ítalo |
