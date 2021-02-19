@@ -1,5 +1,8 @@
 site_name: e-Título
 
+repo_url: https://github.com/Requisitos-de-Software/2020.2-e-Titulo
+repo_name: 'e-Título'
+
 theme:
   name: material
   language: 'pt'
