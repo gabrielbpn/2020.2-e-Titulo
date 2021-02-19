@@ -26,13 +26,9 @@ OBS.: Essas datas podem mudar futuramente.
 Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio grupo ter conhecimento de quando todos os partipantes poderão se runir para discutir e trabalhar no projeto. 
 </p>
 
-<!-- <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="600px" src="../assets/tabela_horarios/tabela_horarios.jpg">
-  <div style="width: 600px; margin-top: 10px; display: flex; justify-content: center; align-items: center">
-    <img width="200px" src="../assets/tabela_horarios/tabela_horarios_legenda1.jpg">
-    <img width="200px" src="../assets/tabela_horarios/tabela_horarios_legenda2.jpg" style="margin-left: 10px">
-  </div>
-</div> -->
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../assets/horarios/horarios.png">
+</div>
 
 
 ## 2. Ferramentas Utilizadas
@@ -59,3 +55,4 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 | 1.0 | 18/02/2021 | Planejamento do trabalho | Gabriel, Guilherme, Ian, Ítalo |
 | 1.1 | 18/02/2021 | Criando o site da documentação | Ian |
 | 1.2 | 18/02/2021 | Arrumando alguns bugs das imagens | Ítalo |
+| 1.3 | 18/02/2021 | Adicionando horários disponíveis | Ítalo |
