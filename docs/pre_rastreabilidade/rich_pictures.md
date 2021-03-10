@@ -46,6 +46,8 @@ Após as consideração feitas pela o professor e um estudo mais aprofundado, fo
   <img width="800" src="../../assets/richPictures/configuracoes.png" />
 </div>
 
+## Referências Bibliográficas
+>TOLFO, C. O uso de rich picture como recurso didático baseado no pensamento visual. Universidade Federal do Pampa, Brasil. Publicado: 04/10/2019
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
