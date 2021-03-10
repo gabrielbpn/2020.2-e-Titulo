@@ -25,9 +25,11 @@ nav:
           - Brainstorming: elicitacao/tecnicas/brainstorming.md
           - Introspecção: elicitacao/tecnicas/introspeccao.md
           - Questionário: elicitacao/tecnicas/questionario.md
-      - Requisitos elicitados: requisitos/personas.md
-  # - Priorização de requisitos:
+      - Requisitos elicitados: elicitacao/requisitos.md
+  - Priorização de requisitos:
+      - MoSCoW: priorizacao/moscow.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
   - Atas:
       - 03/03/2021: atas/reuniao_03_03.md
+      - 10/03/2021: atas/reuniao_03_10.md
