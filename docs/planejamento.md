@@ -30,8 +30,24 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
   <img width="800px" src="../assets/horarios/horarios.png">
 </div>
 
+## 3. Metodologia adotada
 
-## 2. Ferramentas Utilizadas
+No quesito das metodologias adotadas e de experiências passadas, iremos adotar um método ágil para desenvolver o projeto, tais como:
+
+### Reuniões semanais
+Encontros que faremos toda semana para dividir tarefas e discutir sobre quais são as melhores maneiras de desenvolver este projeto, debatendo sobre as técnicas e modos de aplicá-las em relação ao Vjudge
+    - As atas e conteúdo das reuniões ficarão disponíveis na área de atas, aqui em nosso site
+
+### Criação e disponibilidade de issues
+Vamos listar todas as tarefas que temos que fazer durante a semana e qual o status dessa issue, se resolvermos essa issue, então a fechamos, porém se estivermos tendo problemas, vamos tentar descrever quais problemas que estamos sofrendo.
+
+### Divisão de tarefas
+A partir das reuniões, vamos dividir quais funções são específicas para cada membro e vamos listá-las nas nossas plataformas mais diretas, como Discord e Telegram
+
+### Responsabilidades
+As pessoas que irão interferir diretamenta no desenvolvimento do código será apenas o Ian Ferreira, ele se baseará na entrega de cada participante para atualizar o website, o responsável por fazer a revisão será o Guilherme Richter, porém todos do grupo terão essa responsabilidade de maneira secundária
+
+## 3. Ferramentas Utilizadas
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
@@ -56,3 +72,4 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 | 1.1 | 18/02/2021 | Criando o site da documentação | Ian |
 | 1.2 | 18/02/2021 | Arrumando alguns bugs das imagens | Ítalo |
 | 1.3 | 18/02/2021 | Adicionando horários disponíveis | Ítalo |
+| 1.4 | 11/03/2021 | Adicionando as metodologias que usaremos | Ian |
