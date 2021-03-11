@@ -35,7 +35,7 @@ Os requisistos classificados nessa categoria, simboliza requisitos que podem ser
 Os requisistos são classificados nessa categoria para que o equipe de desenvolvimento gerencie as expectativas sobre o que será ou não incluído em uma entrega específica. Colocar requisitos nessa categoria é muito importante, pois evita o crescimento desorganizado do projeto, já que a equipe sabe o que não é prioridade para agora, mas que pode vir a ser em um futuro próximo.
 </p>
 
-## Motivação para a escolha dessa técnica de priorização de requisitos
+## Motivação para a escolha dessa técnica
 
 <p style="text-indent: 20px; text-align: justify">
 A equipe escolheu a técnica MoSCoW para realizar a priorização dos requisitos, pois ela mostra com clareza a importância de determinado requisito, devido a sua fácil compreensão, já que ela possui uma linguagem simples. Além disso, essa técnica se mostrou útil para o projeto, pois como estamos trabalhando com a análise de um aplicativo, conseguimos classificar cada requisito elicitado pela nossa própria experiência com o uso do aplicativo, e pela experiência e comprovações que adquirimos ao aplicar as técnicas de elicitação de requisitos, na qual tivemos contato com outros usuários, personas, e conversas entre a equipe.
