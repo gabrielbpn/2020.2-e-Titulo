@@ -23,7 +23,7 @@ Essa categoria consiste em obrigações, ou seja, qualquer requisito nessa categ
 Os requisitos classificados nessa categoria, apenas um degrau abaixo das Must Have, simboliza requisitos que se deixadas de lado, a entrega ainda funciona, mas que quando incluídas, acrescentam um valor significativo.
 </p>
 
-### Could Have (Poderia fazer)
+### Could Have
 
 <p style="text-indent: 20px; text-align: justify">
 Os requisistos classificados nessa categoria, simboliza requisitos que podem ser definidos como "seria legal ter", ou seja, não são necessárias para o funcionamento do projeto e são as primeiras a serem excluídas se os requisitos nas duas categorias anteriores acabarem ficando maiores do que o esperado.
@@ -32,7 +32,7 @@ Os requisistos classificados nessa categoria, simboliza requisitos que podem ser
 ### Would/Want/Won’t Have
 
 <p style="text-indent: 20px; text-align: justify">
-Os requisistos são classificados nessa categoria para que o equipe de desenvolvimento gerencie as expectativas sobre o que será ou não incluído em uma entrega específica. Colocar requisitos nessa categoria é muito importante, pois evita o crescimento desorganizado do projeto, já que a equipe sabe o que não é prioridade para agora, mas que pode vir a ser em um futuro próximo.
+Os requisitos são classificados nessa categoria para que o equipe de desenvolvimento gerencie as expectativas sobre o que será ou não incluído em uma entrega específica. Colocar requisitos nessa categoria é muito importante, pois evita o crescimento desorganizado do projeto, já que a equipe sabe o que não é prioridade para agora, mas que pode vir a ser em um futuro próximo.
 </p>
 
 ## Motivação para a escolha dessa técnica
@@ -41,10 +41,36 @@ Os requisistos são classificados nessa categoria para que o equipe de desenvolv
 A equipe escolheu a técnica MoSCoW para realizar a priorização dos requisitos, pois ela mostra com clareza a importância de determinado requisito, devido a sua fácil compreensão, já que ela possui uma linguagem simples. Além disso, essa técnica se mostrou útil para o projeto, pois como estamos trabalhando com a análise de um aplicativo, conseguimos classificar cada requisito elicitado pela nossa própria experiência com o uso do aplicativo, e pela experiência e comprovações que adquirimos ao aplicar as técnicas de elicitação de requisitos, na qual tivemos contato com outros usuários, personas, e conversas entre a equipe.
 </p>
 
-<!-- ## Requisitos
+## Requisitos funcionais
 
-| Número | Requisito | Prioridade |
-|:--:|--|--| -->
+| Requisito | Prioridade |
+|--|:--:|
+| Decrever funcionaliades principais na tela inicial | Must |
+| Certificação do possuidor do título de eleitor | Must |
+| Ter foto para fazer reconhecimento | Must |
+| Ter dados pessoais | Must |
+| Poder justificar ausência de maneira presencial | Must |
+| Garantir que o app possa ser utilizado como documento oficial | Must |
+| Ver o local de votação | Must |
+| Oferecer tutorial no primeiro uso do app | Should |
+| Evadir da condição de mesário | Should |
+| Verificar autenticidade de documentos | Could |
+| Ver local de votação de outras pessoas | Could |
+| Poder justificar ausência de maneira online| Could |
+| Poder voluntariar-se como mesária | Would |
+| Poder acompanhar o processo de voluntariado | Would |
+
+## Requisitos não funcionais
+
+| Requisito | Prioridade |
+|--|:--:|
+| Aumentar a acessibilidade para usuários com dificuldades | Must |
+| Sistema ser veloz | Must |
+| Sistema funcionar fora do Brasil | Must |
+| Tenha alguma forma de autenticação para utilizar o sistema, que garanta segurança | Must |
+| Apresentar as funcionalidades de uma forma mais visual | Should |
+| Sistema ser enxuto | Should |
+| Demonstrar como as funcionalidades acontecem | Would |
 
 
 
