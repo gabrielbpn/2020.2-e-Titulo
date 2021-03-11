@@ -77,12 +77,14 @@ As respostas do questinário estão listadas abaixo
 
 |Número | Requisito | Tipo |
 |:--:|--|:--:|
-| 1 | Decrever todas funcionaliades na tela inicial | Funcional |
+| 1 | Decrever funcionaliades principais na tela inicial | Funcional |
 | 2 | Oferecer tutorial no primeiro uso do app | Funcional |
 | 3 | Certificação do possuidor do título de eleitor | Funcional |
-| 4 | Apresentar as funcionalidades de uma forma mais visual | Não funcional |
-| 5 | Demonstrar como as funcionalidades acontecem | Não funcional |
-| 6 | Aumentar a acessibilidade para usuários com dificuldades | Não funcional|
+| 4 | Poder justificar ausência de maneira presencial | Funcional |
+| 5 | Ver o local de votação | Funcional |
+| 6 | Apresentar as funcionalidades de uma forma mais visual | Não funcional |
+| 7 | Demonstrar como as funcionalidades acontecem | Não funcional |
+| 8 | Aumentar a acessibilidade para usuários com dificuldades | Não funcional|
 
 
 ## Referência

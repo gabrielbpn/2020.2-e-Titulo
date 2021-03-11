@@ -17,14 +17,14 @@ Com o uso da Introspecção, vimos que seria possível, por meio das personas, c
 |:--:|:--:|--|:--:|
 | 1 | Camila |Ter foto para fazer reconhecimento | Funcional |
 | 2 | Camila |Ter dados pessoais | Funcional |
-| 3 | Camila |Poder justificar ausência | Funcional |
+| 3 | Camila |Poder justificar ausência de maneira online | Funcional |
 | 4 | Camila |Garantir que o app possa ser utilizado como documento oficial | Funcional |
 | 5 | Milton |Ver local de votação de outras pessoas | Funcional |
 | 6 | Milton |Sistema ser enxuto | Não funcional |
 | 7 | Milton |Sistema ser veloz | Não funcional |
 | 8 | Milton |Verificar autenticidade de documentos | Funcional |
 | 9 | Felipe |Sistema ser veloz | Não funcional|
-| 10 | Felipe |Poder justificar ausência | Funcional |
+| 10 | Felipe |Poder justificar ausência de maneira online | Funcional |
 | 11 | Felipe |Sistema funcionar fora do Brasil | Não funcional |
 | 12 | Felipe |Ver local de votação de terceiros | Funcional |
 | 13 | Samantha |Poder voluntariar-se como mesária | Funcional |
