@@ -52,13 +52,33 @@ A equipe escolheu a técnica MoSCoW para realizar a priorização dos requisitos
 | Poder justificar ausência de maneira presencial | Must |
 | Garantir que o app possa ser utilizado como documento oficial | Must |
 | Ver o local de votação | Must |
+| Poder trocar a senha | Must |
+| Visualizar notificações eleitorais | Must |
+| Verificar se sua seção eleitoral possui acessibilidade | Must |
+| Acessar a localização para servir como justificativa de ausência | Must |
+| Enviar alerta de horário da votação | Must |
 | Oferecer tutorial no primeiro uso do app | Should |
 | Evadir da condição de mesário | Should |
+| Receber notícias da eleição | Should |
+| Verificar o guia para o pagamento de débitos eleitorais | Should |
+| Emitir o guia para o pagamento de débitos eleitorais | Should |
+| Acessar o tutorial de como usar o QR Code no aplicativo | Should |
+| Emitir certidão de quitação eleitoral | Should |
+| Emitir nada consta criminal eleitoral | Should |
+| Desativar conta no E-Título | Should |
 | Verificar autenticidade de documentos | Could |
 | Ver local de votação de outras pessoas | Could |
 | Poder justificar ausência de maneira online| Could |
+| Acessar perguntas e respostas frequentes | Could |
+| Alterar CEP pelo E-Título | Could |
+| Poder acessar o aplicativo por biometria/digital | Would |
 | Poder voluntariar-se como mesária | Would |
 | Poder acompanhar o processo de voluntariado | Would |
+| Saber qual a melhor rota para chegar no local de votação | Would |
+| Acessar a área sobre o e-Título | Would |
+| Ativar modo escuro | Would |
+| Ativar e desativar notificações | Would |
+| Enviar feedback | Would |
 
 ## Requisitos não funcionais
 
@@ -68,8 +88,14 @@ A equipe escolheu a técnica MoSCoW para realizar a priorização dos requisitos
 | Sistema ser veloz | Must |
 | Sistema funcionar fora do Brasil | Must |
 | Tenha alguma forma de autenticação para utilizar o sistema, que garanta segurança | Must |
+| O aplicativo deverá rodar em qualquer plataforma mobile | Must |
+| O aplicativo deverá manter os dados do usuário seguros | Must |
+| O sistema deverá notificar o usuário sem falhas | Must |
 | Apresentar as funcionalidades de uma forma mais visual | Should |
 | Sistema ser enxuto | Should |
+| O aplicativo deverá ter um design intuitivo | Should |
+| As notícias sobre a eleição deverão ser imparciais | Should |
+| As funções do aplicativo não devem ser cansativas | Could |
 | Demonstrar como as funcionalidades acontecem | Would |
 
 
