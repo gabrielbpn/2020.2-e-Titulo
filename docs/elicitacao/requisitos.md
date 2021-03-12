@@ -52,7 +52,6 @@ A partir das três técnicas que aplicamos no projeto: Brainstorming, Introspec�
 | Aumentar a acessibilidade para usuários com dificuldades | Questionário |
 | Sistema ser enxuto | Introspecção |
 | Sistema ser veloz | Introspecção |
-| Sistema ser veloz | Introspecção|
 | Sistema funcionar fora do Brasil | Introspecção |
 | Tenha alguma forma de autenticação para utilizar o sistema, que garanta segurança | Introspecção |
 | O aplicativo deverá rodar em qualquer plataforma mobile | Brainstorming |
