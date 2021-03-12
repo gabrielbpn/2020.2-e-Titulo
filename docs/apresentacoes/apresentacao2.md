@@ -10,4 +10,4 @@
 
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
-| 11/01/2021 |  1.0   |  Gravação do vídeo e elaboração do roteiro |Todos integrantes|
+| 11/03/2021 |  1.0   |  Gravação do vídeo e elaboração do roteiro |Todos integrantes|
