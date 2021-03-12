@@ -28,6 +28,7 @@ nav:
       - Requisitos elicitados: elicitacao/requisitos.md
   - Priorização de requisitos:
       - MoSCoW: priorizacao/moscow.md
+      - Valor, Custo e Risco: priorizacao/valor_custo_risco.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
   - Atas:
