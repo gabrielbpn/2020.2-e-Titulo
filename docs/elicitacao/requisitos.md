@@ -28,12 +28,12 @@ A partir das três técnicas que aplicamos no projeto: Brainstorming, Introspec�
 | Verificar se sua seção eleitoral possui acessibilidade | Brainstorming |
 | Saber qual a melhor rota para chegar no local de votação | Brainstorming |
 | Receber notícias da eleição | Brainstorming |
-| Verificar o guia para o pagamentos de débitos pagamentos | Brainstorming |
-| Emitir o guia para o pagamentos de débitos pagamentos | Brainstorming |
+| Verificar o guia para o pagamento de débitos eleitorais | Brainstorming |
+| Emitir o guia para o pagamento de débitos eleitorais | Brainstorming |
 | Acessar perguntas e respostas frequentes | Brainstorming |
 | Acessar a área sobre o e-Título | Brainstorming |
 | Acessar o tutorial de como usar o QR Code no aplicativo | Brainstorming |
-| Emitir cetidão de quitação eleitoral | Brainstorming |
+| Emitir certidão de quitação eleitoral | Brainstorming |
 | Emitir nada consta criminal eleitoral | Brainstorming |
 | Acessar a localização para servir como justificativa de ausência | Brainstorming |
 | Enviar alerta de horário da votação | Brainstorming |
