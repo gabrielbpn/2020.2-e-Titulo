@@ -106,5 +106,5 @@ A equipe escolheu a técnica MoSCoW para realizar a priorização dos requisitos
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 11/02/2021 | Explicação e motivo pela escolha da técnica MoSCoW | Ian |
-| 1.1 | 10/03/2021 | Priorização dos requisitos | Gabriel, Guilherme, Ian, Ítalo, João Pedro |
+| 1.0 | 10/03/2021 | Explicação e motivo pela escolha da técnica MoSCoW | Ian |
+| 1.1 | 11/03/2021 | Priorização dos requisitos | Gabriel, Guilherme, Ian, Ítalo, João Pedro |
