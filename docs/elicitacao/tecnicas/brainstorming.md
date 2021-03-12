@@ -18,7 +18,7 @@ Optamos pela técnica de Brainstorming, pois ela é uma técnica feita através 
 | 1 | Poder trocar a senha |
 | 2 | Poder acessar o aplicativo por biometria/digital |
 | 3 | Visualizar notificações eleitorais |
-| 4 | Verificar se sua sessão eleitoral possui acessibilidade |
+| 4 | Verificar se sua seção eleitoral possui acessibilidade |
 | 5 | Saber qual a melhor rota para chegar no local de votação |
 | 6 | Receber notícias da eleição |
 | 7 | Verificar o guia para o pagamentos de débitos pagamentos |

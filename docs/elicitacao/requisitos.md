@@ -25,7 +25,7 @@ A partir das três técnicas que aplicamos no projeto: Brainstorming, Introspec�
 | Poder trocar a senha | Brainstorming |
 | Poder acessar o aplicativo por biometria/digital | Brainstorming |
 | Visualizar notificações eleitorais | Brainstorming |
-| Verificar se sua sessão eleitoral possui acessibilidade | Brainstorming |
+| Verificar se sua seção eleitoral possui acessibilidade | Brainstorming |
 | Saber qual a melhor rota para chegar no local de votação | Brainstorming |
 | Receber notícias da eleição | Brainstorming |
 | Verificar o guia para o pagamentos de débitos pagamentos | Brainstorming |
