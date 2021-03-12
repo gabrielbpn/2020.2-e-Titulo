@@ -36,5 +36,5 @@ Com o uso da Introspecção, vimos que seria possível, por meio das personas, c
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-|1.0 | 11/03/2021 | Explicação da técnica de Introspecção e do motivo pela escolha dela | Ian |
-| 1.1 | 10/03/2021 | Elicitação dos requisitos | Gabriel, Guilherme, João Pedro |
+| 1.0 | 11/03/2021 | Explicação da técnica de Introspecção e do motivo pela escolha dela | Ian |
+| 1.1 | 11/03/2021 | Elicitação dos requisitos | Gabriel, Guilherme, João Pedro |

@@ -94,4 +94,4 @@ As respostas do questinário estão listadas abaixo
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 10/03/2021 | Criação do documento, listagem das respostas e elicitação dos requisitos| Ítalo Vinícius |
+| 1.0 | 10/03/2021 | Criação do documento, listagem das respostas e elicitação dos requisitos | Ítalo Vinícius |
