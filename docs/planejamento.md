@@ -1,6 +1,18 @@
 # Planejamento
 
-## 1. Cronograma
+## 1. Aplicativos avaliados individualmente
+
+- Gabriel Bonifácio Perez Nunes -  <a href="https://play.google.com/store/apps/details?id=br.gov.datasus.vivabem&hl=pt_BR&gl=US" target="_blank">Viva Bem</a>
+- Guilherme de Morais Richter - <a href="https://play.google.com/store/apps/details?id=com.ingressoscomdescontos.TremdoCorcovado&hl=pt_BR&gl=US" target="_blank">Trem do Corcovado</a>
+- Ian Fillipe Pontes Ferreira - <a href="https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR&gl=US" target="_blank">e-Título</a>
+- Italo Vinicius Pereira Guimaraes - <a href="https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US" target="_blank">Carteira Digital de Trânsito</a>
+- João Pedro Elias de Moura - <a href="https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US" target="_blank">Moovit</a>
+
+<p style="text-indent: 20px; text-align: justify">
+Em consenso, escolhemos o e-Título.
+</p>
+
+## 2. Cronograma
 
 <p style="text-indent: 20px; text-align: justify">
 A partir dos prazos estipulados pela disciplina e pela disponibilidade dos integrantes, o grupo organizou um cronograma com o intuito de realizar as tarefas propostas no projeto.
@@ -8,7 +20,7 @@ A partir dos prazos estipulados pela disciplina e pela disponibilidade dos integ
 
 OBS.: Essas datas podem mudar futuramente.
 
-### 1.1 Cronograma de atividades
+### 2.1 Cronograma de atividades
 
 |Título|Data|Descrição|
 |:------:|:-----------------------------:|:----------------------------------:|
@@ -20,7 +32,7 @@ OBS.: Essas datas podem mudar futuramente.
 | Pós-Rastreabilidade | 12/04 - 20/04 | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos |
 | Projeto final | 21/04 - 03/05 | Desenvolver a apresentação final do projeto |
 
-### 1.2 Disponibilidade dos integrantes
+### 2.2 Disponibilidade dos integrantes
 
 <p style="text-indent: 20px; text-align: justify">
 Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio grupo ter conhecimento de quando todos os partipantes poderão se reunir para discutir e trabalhar no projeto. 
@@ -32,36 +44,54 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 
 ## 3. Metodologia adotada
 
-No quesito das metodologias adotadas e de experiências passadas, iremos adotar um método ágil para desenvolver o projeto, tais como:
+<p style="text-indent: 20px; text-align: justify">
+Pensamos em uma metodologia para se trabalhar, porém não conseguimos nos identificar com nenhuma, no entanto, a partir da lista de exercícios de Requisitos de Software sobre os métodos ágeis, escolhemos a metodologia XP, seguindo seus valores de comunicação, simplicidade, feedback, coragem e respeito. Adotamos esta metodologia para descrever o nosso processo de trabalho e desenvolvimento do projeto.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+Dentre as variáveis de controle em projetos (custo, tempo, qualidade e escopo), há um foco explícito em escopo. Para isso, recomenda-se a priorização de funcionalidades que representem maior valor possível para o negócio. Desta forma, caso seja necessário a diminuição de escopo, as funcionalidades menos valiosas serão adiadas ou canceladas.
+</p>
 
 ### Reuniões semanais
+
+<p style="text-indent: 20px; text-align: justify">
 Encontros que faremos toda semana para dividir tarefas e discutir sobre quais são as melhores maneiras de desenvolver este projeto, debatendo sobre as técnicas e modos de aplicá-las em relação ao Vjudge
-    - As atas e conteúdo das reuniões ficarão disponíveis na área de atas, aqui em nosso site
+</p>
+
+- As atas e conteúdo das reuniões ficarão disponíveis na área de atas, aqui em nosso site
 
 ### Criação e disponibilidade de issues
+
+<p style="text-indent: 20px; text-align: justify">
 Vamos listar todas as tarefas que temos que fazer durante a semana e qual o status dessa issue, se resolvermos essa issue, então a fechamos, porém se estivermos tendo problemas, vamos tentar descrever quais problemas que estamos sofrendo.
+</p>
 
 ### Divisão de tarefas
+
+<p style="text-indent: 20px; text-align: justify">
 A partir das reuniões, vamos dividir quais funções são específicas para cada membro e vamos listá-las nas nossas plataformas mais diretas, como Discord e Telegram
+</p>
 
 ### Responsabilidades
-As pessoas que irão interferir diretamenta no desenvolvimento do código será apenas o Ian Ferreira, ele se baseará na entrega de cada participante para atualizar o website, o responsável por fazer a revisão será o Guilherme Richter, porém todos do grupo terão essa responsabilidade de maneira secundária
 
-## 3. Ferramentas Utilizadas
+<p style="text-indent: 20px; text-align: justify">
+As pessoas que irão interferir diretamenta no desenvolvimento do código será apenas o Ian Ferreira, ele se baseará na entrega de cada participante para atualizar o website, o responsável por fazer a revisão será o Guilherme Richter, porém todos do grupo terão essa responsabilidade de maneira secundária
+</p>
+
+## 4. Ferramentas Utilizadas
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
-|<img width="150px" height="150px" src="../assets/icons/eTitulo.png" alt="eTitulo">|e-titulo|Aplicativo que permite o porte digital do documento de título de eleitor|
-|<img width="150px" height="150px" src="../assets/icons/github.png" alt="GitHub_icon">|GitHub|Ferramenta de controle de versão de arquivos e código|
-|<img width="150px" height="150px" src="../assets/icons/microsoft.png" alt="MicrosoftWord_icon">|Microsoft Word|Processador de texto para arquivos .doc|
-|<img width="150px" height="150px" src="../assets/icons/canva.png" alt="Canva_icon">|Canva|Plataforma de design gráfico e produção de slides|
-|<img width="150px" height="150px" style="border-radius:50%" src="../assets/icons/figma.png" alt="Figma_icon">|Figma|Ferramenta de edição de imagens|
-|<img width="150px" height="150px" src="../assets/icons/lucidchart.png" alt="Lucidchart_icon">|Lucidchart|Plataforma de desenho e compartilhamento de diagramas|
-|<img width="150px" height="150px" src="../assets/icons/teams.png" alt="MicrosoftTeams_icon">|Microsoft Teams|Ferramenta de chamada e gravação de vídeos|
-|<img width="150px" height="150px" src="../assets/icons/discord.png" alt="Discord_icon">|Discord|Ferramenta principal de chamada entre o grupo|
-|<img width="150px" height="150px" src="../assets/icons/telegram.png" alt="Telegram_icon">|Telegram|Mensageiro principal do grupo para diálogo ocasional|
-|<img width="150px" height="150px" src="../assets/icons/visualStudioCode.png" alt="VSCode_icon">|VSCode|Editor de código-fonte|
-
+|<img width="80px" height="80px" src="../assets/icons/eTitulo.png" alt="eTitulo">|e-titulo|Aplicativo que permite o porte digital do documento de título de eleitor|
+|<img width="80px" height="80px" src="../assets/icons/github.png" alt="GitHub_icon">|GitHub|Ferramenta de controle de versão de arquivos e código|
+|<img width="80px" height="80px" src="../assets/icons/microsoft.png" alt="MicrosoftWord_icon">|Microsoft Word|Processador de texto para arquivos .doc|
+|<img width="80px" height="80px" src="../assets/icons/canva.png" alt="Canva_icon">|Canva|Plataforma de design gráfico e produção de slides|
+|<img width="80px" height="80px" style="border-radius:50%" src="../assets/icons/figma.png" alt="Figma_icon">|Figma|Ferramenta de edição de imagens|
+|<img width="80px" height="80px" src="../assets/icons/lucidchart.png" alt="Lucidchart_icon">|Lucidchart|Plataforma de desenho e compartilhamento de diagramas|
+|<img width="80px" height="80px" src="../assets/icons/teams.png" alt="MicrosoftTeams_icon">|Microsoft Teams|Ferramenta de chamada e gravação de vídeos|
+|<img width="80px" height="80px" src="../assets/icons/discord.png" alt="Discord_icon">|Discord|Ferramenta principal de chamada entre o grupo|
+|<img width="80px" height="80px" src="../assets/icons/telegram.png" alt="Telegram_icon">|Telegram|Mensageiro principal do grupo para diálogo ocasional|
+|<img width="80px" height="80px" src="../assets/icons/visualStudioCode.png" alt="VSCode_icon">|VSCode|Editor de código-fonte|
 
 
 
