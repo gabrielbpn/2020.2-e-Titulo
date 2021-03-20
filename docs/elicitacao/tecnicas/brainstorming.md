@@ -4,10 +4,14 @@
 Brainstorming é uma técnica que consiste em uma ou várias reuniões que permitem que as pessoas sugiram e explorem idéias, ou seja é uma técnica para geração de idéias.
 </p>
 
+<p style="text-indent: 20px; text-align: justify">
+O Brainstorming foi feito por todos os integrantes, no dia 11/03/2021, de forma virtual pela plataforma Discord. Nessa reunião não houve um condutor principal, ou seja, foi conduzido por todos os integrantes na medida que íamos conversando e alguma função ou requisito era comentado.
+</p>
+
 ## Motivação para a escolha dessa técnica
 
 <p style="text-indent: 20px; text-align: justify">
-Optamos pela técnica de Brainstorming, pois ela é uma técnica feita através de conversas e troca de ideias entre a própria equipe, logo, concluimos que seria uma técnica ideal para elicitar os requisitos, já que a conversa seria totalmente focada nesse objetivo, além de que, poderíamos guiar muito bem essa troca de ideias devido a experiência que temos com o aplicativo, tanto como usuário, como pessoas que estão usando o aplicativo como um objeto de análise, assim poderíamos avaliar o que já existia e o que deviria existir no aplicativo.
+Optamos pela técnica de Brainstorming, pois ela é uma técnica feita através de conversas e troca de ideias entre a própria equipe, logo, concluímos que seria uma técnica ideal para elicitar os requisitos, já que a conversa seria totalmente focada nesse objetivo, além de que, poderíamos guiar muito bem essa troca de ideias devido a experiência que temos com o aplicativo, tanto como usuário, como pessoas que estão usando o aplicativo como um objeto de análise, assim poderíamos avaliar o que já existia e o que deviria existir no aplicativo.
 </p>
 
 
@@ -26,7 +30,7 @@ Optamos pela técnica de Brainstorming, pois ela é uma técnica feita através 
 | 9 | Acessar perguntas e respostas frequentes |
 | 10 | Acessar a área sobre o e-Título |
 | 11 | Acessar o tutorial de como usar o QR Code no aplicativo |
-| 12 | Emitir cetidão de quitação eleitoral |
+| 12 | Emitir certidão de quitação eleitoral |
 | 13 | Emitir nada consta criminal eleitoral |
 | 14 | Acessar a localização para servir como justificativa de ausência |
 | 15 | Enviar alerta de horário da votação |
@@ -52,8 +56,9 @@ Optamos pela técnica de Brainstorming, pois ela é uma técnica feita através 
 
 >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
-## Versionamento
+## Versionamentos
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/03/2021 | Explicação da técnica de Brainstorming e do motivo pela escolha dela  | Ian|
 | 1.1 | 11/03/2021 | Elicitação dos requisitos pela técnica de Brainstorming | Gabriel, Guilherme, Ian, Ítalo, João Pedro |
+| 1.1.1 | 18/03/2021 | Revisão gramatical | Ian e Ítalo |

@@ -7,6 +7,7 @@ Uma persona é um personagem fictício, que representam um grupo de usuários re
 Uma persona, deve possuir os seguintes elementos característicos:
 
 - **Identidade:** a persona deve possuir nome e sobrenome, idade, escolaridade, profissão, foto, e outros dados que informam que é a persona, no intuito de de deixá-la mais realista.
+
 - **Status:**  define se esta persona é primária, secundária, stakeholder representa um antiusuário do seu sistema. Sendo que um antiusuário e alguém que não vai utilizar o produto e, portanto, não deve influenciar as decisões de projeto.
 - **Objetivos:** define quais são os objetivos desta persona.
 - **Habilidades:** define quais são as habilidades da persona, como por exemplo, competências específicas.
@@ -17,7 +18,7 @@ Uma persona, deve possuir os seguintes elementos característicos:
 
 <p style="text-indent: 20px; text-align: justify">
 As personas foram criadas no intuito de utilizá-las na técnica de Introspecção para a elicitação de requisitos.
-</p>
+</p>|
 
 ## Persona 1
 
@@ -120,6 +121,10 @@ As personas foram criadas no intuito de utilizá-las na técnica de Introspecç�
 | Tarefas: | Gasta a maior parte do seu dia sem fazer muita coisa. Cozinha, lê e conversa com sua esposa. Às vezes seus filhos o buscam para ir à sua casa.|
 | Expectativas: | É um eleitor com prazer, mas não gosta de usar esses aplicativos de documentos. Seu negócio é papel, não tem interesse. Seu filho instalou no seu celular para caso precise, mas o seu Ademir nem consegue enxergar o que está escrito nos botões.|
 
+
+<p style="text-indent: 20px; text-align: justify">
+As imagens das personas foram tiradas do site <a href="https://www.pexels.com/pt-br/" target="_blank">Pexels</a>, na qual todas a fotos podem ser usadas de forma gratuita e a citação de créditos não é obrigatória, como pode ser visto no <a href="https://www.pexels.com/pt-br/licenca/" target="_blank">link</a>.
+</p>
 
 ## Referência
 
