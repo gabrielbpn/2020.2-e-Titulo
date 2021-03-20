@@ -35,6 +35,8 @@ A imagem abaixo retrata os casos de uso específicos para a função "Mostrar ma
   <img width="800" src="../../assets/casosUso/casosUsoEspecifico.png" />
 </div>
 
+## Descrição dos casos de uso
+
 ### Caso 1: Fazer Cadastro
 
 | Caso 1 | Informações |
@@ -102,10 +104,6 @@ A imagem abaixo retrata os casos de uso específicos para a função "Mostrar ma
 | Pós-condições | O ator poderá ter usufruído de todas as opções descritas em "Mais opções" |
 | Rastreabilidade | Requisitos Funcionais: <br/> 04 (RF04) - Poder justificar ausência de maneira presencial <br/> 08 (RF08) - Ver local de votação de outras pessoas <br/>  09 (RF09) - Verificar autenticidade de documentos <br/> 10 (RF10) - Poder justificar ausência de maneira online <br/> 12 (RF12) - Poder voluntariar-se como mesário <br/> 14 (RF14) - Evadir da condição de mesário <br/> 21 (RF21) - Verificar o guia para o pagamento de débitos eleitorais <br/> 22 (RF22) - Emitir o guia para o pagamento de débitos eleitorais <br/> 23 (RF23) - Acessar perguntas e respostas frequentes <br/> 24 (RF24) - 	Acessar a área sobre o e-Título <br/> 25 (RF25) - Acessar o tutorial de como usar o QR Code no aplicativo <br/> 26 (RF26) - Emitir certidão de quitação eleitoral <br/> 27(RF27) - Emitir nada consta criminal eleitoral <br/> 32 (RF32) - Desativar conta no E-Título <br/> <br/> Pasta: Elicitação de Requisitos -> Requisitos Elicitados |
 
-## Ferramentas utilizadas
-
-- LucidChart
-- VScode
 
 ## Referência
 > SOMMERVILLE, Ian. Engenharia de Software. 9.ed. São Paulo: Pearson Prentice Hall, 2011. 529 p.
