@@ -1,7 +1,7 @@
 ## Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O termo MoSCoW é um acrônimo em inglês, na qual cada letra maiúscula possui um significado que tem o intuito de definir a prioridade e a importância, no nosso caso, dos requisitos funcionais e não funcionais que foram elicitados no aplicativo e-Título, pelas técnicas de Branstorming, Introspecção e Questionário.
+O termo MoSCoW é um acrônimo em inglês, na qual cada letra maiúscula possui um significado que tem o intuito de definir a prioridade e a importância, no nosso caso, dos requisitos funcionais e não funcionais que foram elicitados no aplicativo e-Título, pelas técnicas de Brainstorming, Introspecção e Questionário.
 </p>
 
 - **M:** Must Have
@@ -26,7 +26,7 @@ Os requisitos classificados nessa categoria, apenas um degrau abaixo das Must Ha
 ### Could Have
 
 <p style="text-indent: 20px; text-align: justify">
-Os requisistos classificados nessa categoria, simboliza requisitos que podem ser definidos como "seria legal ter", ou seja, não são necessárias para o funcionamento do projeto e são as primeiras a serem excluídas se os requisitos nas duas categorias anteriores acabarem ficando maiores do que o esperado.
+Os requisitos classificados nessa categoria, simboliza requisitos que podem ser definidos como "seria legal ter", ou seja, não são necessárias para o funcionamento do projeto e são as primeiras a serem excluídas se os requisitos nas duas categorias anteriores acabarem ficando maiores do que o esperado.
 </p>
 
 ### Would/Want/Won’t Have
@@ -45,7 +45,7 @@ A equipe escolheu a técnica MoSCoW para realizar a priorização dos requisitos
 
 | Requisito | Prioridade |
 |--|:--:|
-| Decrever funcionaliades principais na tela inicial | Must |
+| Descrever funcionalidades principais na tela inicial | Must |
 | Certificação do possuidor do título de eleitor | Must |
 | Ter foto para fazer reconhecimento | Must |
 | Ter dados pessoais | Must |
@@ -108,3 +108,4 @@ A equipe escolheu a técnica MoSCoW para realizar a priorização dos requisitos
 |--|--|--|--|
 | 1.0 | 10/03/2021 | Explicação e motivo pela escolha da técnica MoSCoW | Ian |
 | 1.1 | 11/03/2021 | Priorização dos requisitos | Gabriel, Guilherme, Ian, Ítalo, João Pedro |
+| 1.1.1 | 18/03/2021 | Revisão gramatical | Ian |

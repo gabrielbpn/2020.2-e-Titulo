@@ -3,7 +3,7 @@
 ## Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Essa é uma técnica de priorização análitica que após identificados os requisitos essenciais ao produto a ser entregue, pode ser utilizada para classificar a importância relativa dos requisitos restantes. Para estimar essa prioridade relativa dos requisitos, adota-se conceitos do QFD (Quality Function Deployment), na qual é distribuido um conjunto de classificações, que são: 
+Essa é uma técnica de priorização analítica que após identificados os requisitos essenciais ao produto a ser entregue, pode ser utilizada para classificar a importância relativa dos requisitos restantes. Para estimar essa prioridade relativa dos requisitos, adota-se conceitos do QFD (Quality Function Deployment), na qual é distribuído um conjunto de classificações, que são: 
 </p>
 
 - **Valor** que o cliente atribui para o benefício fornecido a um requisito específico que seja incorporado;
@@ -20,7 +20,7 @@ A importância de um requisito é diretamente proporcional ao valor que ele agre
 ## Motivação para a escolha dessa técnica
 
 <p style="text-indent: 20px; text-align: justify">
-Optamos por realizar a técnica de priorização baseada em valor, custo e risco, pois com ela conseguiríamos criar um panorama com a técnica MoSCoW, pois a técnica de priorização baseada em valor, custo e risco é uma técnica análitica que pode comprovar matemáticamente a priorização dos requisitos, enquanto que na técnica MoSCoW, a priorização é feita a partir das experiências e deduções que temos a respeito do aplicativo e-Título, suas funções e utilizações.
+Optamos por realizar a técnica de priorização baseada em valor, custo e risco, pois com ela conseguiríamos criar um panorama com a técnica MoSCoW, pois a técnica de priorização baseada em valor, custo e risco é uma técnica analítica que pode comprovar matemáticamente a priorização dos requisitos, enquanto que na técnica MoSCoW, a priorização é feita a partir das experiências e deduções que temos a respeito do aplicativo e-Título, suas funções e utilizações.
 </p>
 
 
@@ -164,3 +164,4 @@ Optamos por realizar a técnica de priorização baseada em valor, custo e risco
 |--|--|--|--|
 | 1.0 | 11/03/2021 | Explicação e motivo pela escolha da técnica valor, custo e risco | Ian |
 | 1.0 | 11/03/2021 | Priorização pela técnica baseada em valor, custo e risco | Gabriel, Guilherme, Ian, Ítalo, João Pedro |
+| 1.0.1 | 18/03/2021 | Revisão gramatical | Ian |
