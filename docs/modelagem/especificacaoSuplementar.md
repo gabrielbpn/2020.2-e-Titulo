@@ -21,18 +21,11 @@ Este documento captura os requisitos de sistema que não foram identificados nos
 Definir requisitos não funcionais que os outros métodos não conseguiram definir
 </p>
 
-### Escopo
-
-<p style="text-indent: 20px; text-align: justify">
-O objetivo do aplicativo e-Título é facilitar a vida do eleitor brasileiro nas diversas nuances das complexidades eleitorais que antigamente eram complicadas de se satisfazer.
-</p>
-
 ### Referências
 
 <p style="text-indent: 20px; text-align: justify">
 Nos baseamos nas tarefas anteriores e também nas funcionalidades que o aplicativo oferece
 </p>
-
 
 ### Escopo
 
