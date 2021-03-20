@@ -35,7 +35,7 @@ OBS.: Essas datas podem mudar futuramente.
 ### 2.2 Disponibilidade dos integrantes
 
 <p style="text-indent: 20px; text-align: justify">
-Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio grupo ter conhecimento de quando todos os partipantes poderão se reunir para discutir e trabalhar no projeto. 
+Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio grupo ter conhecimento de quando todos os participantes poderão se reunir para discutir e trabalhar no projeto. 
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
@@ -43,6 +43,9 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 </div>
 
 ## 3. Metodologia adotada
+
+
+### XP - EXtreme Programming
 
 <p style="text-indent: 20px; text-align: justify">
 Pensamos em uma metodologia para se trabalhar, porém não conseguimos nos identificar com nenhuma, no entanto, a partir da lista de exercícios de Requisitos de Software sobre os métodos ágeis, escolhemos a metodologia XP, seguindo seus valores de comunicação, simplicidade, feedback, coragem e respeito. Adotamos esta metodologia para descrever o nosso processo de trabalho e desenvolvimento do projeto.
@@ -75,7 +78,7 @@ A partir das reuniões, vamos dividir quais funções são específicas para cad
 ### Responsabilidades
 
 <p style="text-indent: 20px; text-align: justify">
-As pessoas que irão interferir diretamenta no desenvolvimento do código será apenas o Ian Ferreira, ele se baseará na entrega de cada participante para atualizar o website, o responsável por fazer a revisão será o Guilherme Richter, porém todos do grupo terão essa responsabilidade de maneira secundária
+As pessoas que irão interferir diretamente nos commits e push do código será apenas o Ian Ferreira, ele se baseará na entrega de cada participante para atualizar o website ou no desenvolvimento em conjunto feito polos membros utilizando a extensão do VSCode, Live Share. O responsável por fazer a revisão será o Guilherme Richter, porém todos do grupo terão essa responsabilidade de maneira secundária
 </p>
 
 ## 4. Ferramentas Utilizadas
@@ -98,8 +101,9 @@ As pessoas que irão interferir diretamenta no desenvolvimento do código será 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 18/02/2021 | Planejamento do trabalho | Gabriel, Guilherme, Ian, Ítalo |
+| 1.0 | 18/02/2021 | Planejamento do trabalho | Gabriel, Guilherme, Ian, Italo |
 | 1.1 | 18/02/2021 | Criando o site da documentação | Ian |
-| 1.2 | 18/02/2021 | Arrumando alguns bugs das imagens | Ítalo |
-| 1.3 | 18/02/2021 | Adicionando horários disponíveis | Ítalo |
+| 1.2 | 18/02/2021 | Arrumando alguns bugs das imagens | Italo |
+| 1.3 | 18/02/2021 | Adicionando horários disponíveis | Italo |
 | 1.4 | 11/03/2021 | Adicionando as metodologias que usaremos | Ian |
+| 1.4 | 19/03/2021 | Remodelando as metodologias que usaremos e adicionando a avaliação individual de cada integrante | Ian |
