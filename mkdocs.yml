@@ -29,6 +29,11 @@ nav:
   - Priorização de requisitos:
       - MoSCoW: priorizacao/moscow.md
       - Valor, Custo e Risco: priorizacao/valor_custo_risco.md
+  - Modelagem de requisitos:
+      - Casos de uso: modelagem/casosUso.md
+      - Cenários: modelagem/cenarios.md
+      - Léxicos: modelagem/lexicos.md
+      - Especificação suplementar: modelagem/especificacaoSuplementar.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
