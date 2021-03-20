@@ -4,6 +4,8 @@
 Um Rich Picture é um artefato construído a fim de ilustrar e, assim, trazer uma melhor compreensão do problema a ser resolvido pela equipe de desenvolvimento.
 </p>
 
+- Desenvolvida utilizando a ferramenta LucidChart
+
 ## Versão 1.0 do RichPicture
 
 <div style="display: flex; justify-content: center">
