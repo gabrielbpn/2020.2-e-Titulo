@@ -42,7 +42,6 @@ A partir das três técnicas que aplicamos no projeto: Brainstorming, Introspec�
 | RF32 | Desativar conta no E-Título | Brainstorming |
 | RF33 | Enviar feedback | Brainstorming |
 | RF34 | Alterar CEP pelo E-Título | Brainstorming |
-| RF35 | Buscar melhores rotas para o local de votação | Brainstorming |
 
 ## Requisitos não funcionais
 
