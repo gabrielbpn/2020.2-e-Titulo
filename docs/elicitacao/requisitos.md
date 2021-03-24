@@ -15,7 +15,7 @@ A partir das três técnicas que aplicamos no projeto: Brainstorming, Introspec�
 | RF05 | Ter foto para fazer reconhecimento | Introspecção |
 | RF06 | Ter dados pessoais | Introspecção |
 | RF07 | Garantir que o app possa ser utilizado como documento oficial | Introspecção |
-| RF08 | Ver local de votação de outras pessoas | Introspecção |
+| RF08 | Ver local de votação | Introspecção |
 | RF09 | Verificar autenticidade de documentos | Introspecção |
 | RF10 | Poder justificar ausência de maneira online | Introspecção |
 | RF11 | Ver local de votação de terceiros | Introspecção |
@@ -42,6 +42,7 @@ A partir das três técnicas que aplicamos no projeto: Brainstorming, Introspec�
 | RF32 | Desativar conta no E-Título | Brainstorming |
 | RF33 | Enviar feedback | Brainstorming |
 | RF34 | Alterar CEP pelo E-Título | Brainstorming |
+| RF35 | Buscar melhores rotas para o local de votação | Brainstorming |
 
 ## Requisitos não funcionais
 
