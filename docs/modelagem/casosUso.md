@@ -21,8 +21,9 @@ Diagramas feitos utilizando a ferramenta LucidChart.
 
 ### Caso de uso geral
 
-<div style="display: flex; justify-content: center">
-  <img width="800" src="../../assets/casosUso/casosUsoGeral.png" />
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../../assets/casosUso/casosUsoGeral.png">
+  <figcaption>Figura 1 - Caso de uso geral feito utilizando o LucidChart</figcaption>
 </div>
 
 ### Caso de uso específico - "Mostrar mais opções"
@@ -31,8 +32,9 @@ Diagramas feitos utilizando a ferramenta LucidChart.
 A imagem abaixo retrata os casos de uso específicos para a função "Mostrar mais opções" que pode ser visto na imagem acima, na elipse amarela do "Caso de uso geral".
 </p>
 
-<div style="display: flex; justify-content: center">
-  <img width="800" src="../../assets/casosUso/casosUsoEspecifico.png" />
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../../assets/casosUso/casosUsoEspecifico.png">
+  <figcaption>Figura 2 - Caso de uso específico da função "Mostrar mais opções" feito utilizando o LucidChart</figcaption>
 </div>
 
 ## Descrição dos casos de uso
@@ -112,3 +114,4 @@ A imagem abaixo retrata os casos de uso específicos para a função "Mostrar ma
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 18/03/2021 | Identificação dos casos de uso | Todos os integrantes |
+| 1.1 | 31/03/2021 | Adicionando legenda nas imagens após feedback do professor e monitores | Ian |

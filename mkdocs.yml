@@ -34,7 +34,15 @@ nav:
       - Cenários: modelagem/cenarios.md
       - Léxicos: modelagem/lexicos.md
       - Especificação suplementar: modelagem/especificacaoSuplementar.md
-      - Backlog do Produto: modelagem/backlog.md
+      - Backlog do Produto:
+          - Backlog: modelagem/backlog_produto/backlog.md
+          - História de Usuário:
+              - História de Usuário: modelagem/backlog_produto/historias_usuario/historiasUsuario.md
+              - Épico 01 - Conta de Usuário: modelagem/backlog_produto/historias_usuario/epico1.md
+              - Épico 02 - Onde Votar: modelagem/backlog_produto/historias_usuario/epico2.md
+              - Épico 03 - Notificações: modelagem/backlog_produto/historias_usuario/epico3.md
+              - Épico 04 - Mais Opções: modelagem/backlog_produto/historias_usuario/epico4.md
+              - Épico 05 - Documentação: modelagem/backlog_produto/historias_usuario/epico5.md
       - NFR Framework: modelagem/nfrFramework.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md

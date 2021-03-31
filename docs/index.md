@@ -16,10 +16,10 @@ O e-Título é um aplicativo móvel para obtenção da via digital do título de
 
 # Contribuidores
 
-| Foto | Matrícula | Nome | GitHub | E-mail |
-|:--:|:--:|:--:|:--:|:--:|
-|<img width="150px" style="border-radius:10%" src="./assets/integrantes/gabriel.jpg" alt="Gabriel">|180145088|Gabriel Bonifácio Perez Nunes|gabrielbpn|gabrielbpn0802@gmail.com|
-|<img width="150px" style="border-radius:10%" src="./assets/integrantes/guilherme.jpg" alt="Guilherme">|180101617|Guilherme de Morais Richter|guilhermemoraisr|guilhermemoraisr@gmail.com|
-|<img width="150px" style="border-radius:10%" src="./assets/integrantes/ian.jpg" alt="Ian">|180102087|Ian Fillipe Pontes Ferreira|IanFPFerreira|ianfillipe@gmail.com|
-|<img width="150px" style="border-radius:10%" src="./assets/integrantes/italo.jpg" alt="Italo">|180102656|Italo Vinicius Pereira Guimaraes|italovinicius18|italovinicius18@yahoo.com|
-|<img width="150px" style="border-radius:10%" src="./assets/integrantes/joao.jpg" alt="Joao">|160152615|João Pedro Elias de Moura|Joao-Pedro-Moura|joaopedro103@hotmail.com|
+| Foto | Nome | GitHub | E-mail |
+|:--:|:--:|:--:|:--:|
+|<img width="150px" style="border-radius:10%" src="./assets/integrantes/gabriel.jpg" alt="Gabriel">|Gabriel Bonifácio Perez Nunes|gabrielbpn|gabrielbpn0802@gmail.com|
+|<img width="150px" style="border-radius:10%" src="./assets/integrantes/guilherme.jpg" alt="Guilherme">|Guilherme de Morais Richter|guilhermemoraisr|guilhermemoraisr@gmail.com|
+|<img width="150px" style="border-radius:10%" src="./assets/integrantes/ian.jpg" alt="Ian">|Ian Fillipe Pontes Ferreira|IanFPFerreira|ianfillipe@gmail.com|
+|<img width="150px" style="border-radius:10%" src="./assets/integrantes/italo.jpg" alt="Italo">|Italo Vinicius Pereira Guimaraes|italovinicius18|italovinicius18@yahoo.com|
+|<img width="150px" style="border-radius:10%" src="./assets/integrantes/joao.jpg" alt="Joao">|João Pedro Elias de Moura|Joao-Pedro-Moura|joaopedro103@hotmail.com|
