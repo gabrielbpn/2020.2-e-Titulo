@@ -34,6 +34,8 @@ nav:
       - Cenários: modelagem/cenarios.md
       - Léxicos: modelagem/lexicos.md
       - Especificação suplementar: modelagem/especificacaoSuplementar.md
+      - Backlog do Produto: modelagem/backlog.md
+      - NFR Framework: modelagem/nfrFramework.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
@@ -42,3 +44,4 @@ nav:
       - 03/03/2021: atas/reuniao_03_03.md
       - 10/03/2021: atas/reuniao_03_10.md
       - 17/03/2021: atas/reuniao_03_17.md
+      - 24/03/2021: atas/reuniao_03_24.md
