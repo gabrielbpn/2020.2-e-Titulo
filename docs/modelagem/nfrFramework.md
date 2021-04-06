@@ -56,25 +56,17 @@ Todos o diagramas abaixo são baseados nos testes e análise de documentos da ap
 
 ### Confiabilidade
 
-<p style="text-indent: 20px; text-align: justify">
-Em desenvolvimento
-</p>
-
-<!-- <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <img width="800px" src="../../assets/nfr/confiabilidade.png">
   <figcaption>Figura 5 - Representação da Confiabilidade</figcaption>
-</div> -->
+</div>
 
 ### Custo
 
-<p style="text-indent: 20px; text-align: justify">
-Em desenvolvimento
-</p>
-
-<!-- <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <img width="800px" src="../../assets/nfr/custos.png">
   <figcaption>Figura 6 - Representação do Custo</figcaption>
-</div> -->
+</div>
 
 ### Desempenho
 
@@ -103,6 +95,14 @@ Em desenvolvimento
   <img width="800px" src="../../assets/nfr/usabilidade.png">
   <figcaption>Figura 10 - Representação da Usabilidade</figcaption>
 </div>
+
+### Portabilidade
+
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../../assets/nfr/portabilidade.png">
+  <figcaption>Figura 11 - Representação da Portabilidade</figcaption>
+</div>
+
 
 ## Referência
 
