@@ -64,7 +64,7 @@ Todos o diagramas abaixo são baseados nos testes e análise de documentos da ap
 ### Custo
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="800px" src="../../assets/nfr/custos.png">
+  <img width="800px" src="../../assets/nfr/custo.png">
   <figcaption>Figura 6 - Representação do Custo</figcaption>
 </div>
 
