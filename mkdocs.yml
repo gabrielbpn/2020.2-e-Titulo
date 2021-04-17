@@ -44,11 +44,25 @@ nav:
               - Épico 04 - Mais Opções: modelagem/backlog_produto/historias_usuario/epico4.md
               - Épico 05 - Documentação: modelagem/backlog_produto/historias_usuario/epico5.md
       - NFR Framework: modelagem/nfrFramework.md
+  - Análise:
+      - Verificação:
+          - Introdução: analise/verificacao/introducao.md
+          - Rich Pictures: analise/verificacao/richPicture.md
+          - Casos de Uso: analise/verificacao/casosUso.md
+#           - Cenários: analise/verificacao/cenarios.md
+#           - Léxicos: analise/verificacao/lexicos.md
+#           - NFR Framework: analise/verificacao/nfrFramework.md
+#           - Backlog do Produto: analise/verificacao/backlogProduto.md
+      - Validação:
+            - Informal: analise/validacao/informal.md
+            - Protótipo: analise/validacao/prototipo.md
+#             - Viewpoint: analise/validacao/viewpoint.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
       - Apresentação 3: apresentacoes/apresentacao3.md
       - Apresentação 4: apresentacoes/apresentacao4.md
+      - Apresentação 5: apresentacoes/apresentacao5.md
   - Atas:
       - 03/03/2021: atas/reuniao_03_03.md
       - 10/03/2021: atas/reuniao_03_10.md
