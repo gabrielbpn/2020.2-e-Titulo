@@ -115,3 +115,4 @@ Todos o diagramas abaixo são baseados nos testes e análise de documentos da ap
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 24/03/2021 | NFR framework desenvolvido | Guilherme e Ítalo |
+| 1.1 | 15/04/2021 | NFR framework retrabalhado | Guilherme |

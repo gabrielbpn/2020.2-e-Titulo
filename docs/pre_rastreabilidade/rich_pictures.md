@@ -61,5 +61,5 @@ Após as consideração feitas pela o professor e um estudo mais aprofundado, fo
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/02/2021 | Criação do rich picture versão 1.0 | Ian |
-| 1.1 | 10/03/2021 | Criação do rich picture versão 2.0 | Ian |
-| 1.2 | 31/03/2021 | Adicionando legenda nas imagens após feedback do professor e monitores | Ian |
+| 2.0 | 10/03/2021 | Criação do rich picture versão 2.0 | Ian |
+| 2.1 | 31/03/2021 | Adicionando legenda nas imagens após feedback do professor e monitores | Ian |
