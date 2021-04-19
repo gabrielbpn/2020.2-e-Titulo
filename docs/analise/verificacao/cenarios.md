@@ -4,13 +4,13 @@
 
 <p style="text-indent: 20px; text-align: justify"> 
 Esse documento tem como objetivo traçar a verificação dos Cenários que nós implementamos anteriormente a respeito do aplicativo E-Título. 
-<p\>
+</p>
 
 ### 2. Inspeção
 
 <p style="text-indent: 20px; text-align: justify"> 
 Nessa etapa, nós iremos realizar a verificação individual de cada cenário já listado anteriormente. O foco aqui é justamente fazer essa análise das respostas para cada pergunta listada em cada cenário.
-<p\>
+</p>
 
 ### Checklist
 

@@ -7,7 +7,7 @@ Esse documento tem o objetivo de realizar o processo de Verificação dos Casos 
 ## Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A metodologia usada para realizar o processo de Verificação dos Casos de Uso criados foi a Inspeção, sendo que está foi conduzida por um checklist, ou seja, por meio de uma série de tópicos e pontos importantes referentes a criação e documentação dos Casos de Uso, uma inspeção foi realizada sobre a documento sinalizando se determinado tópico estava sendo atendido (&#10004) ou não (&#10006) na documentação referente aos <a href="../../../modelagem/casosUso">Casos de Uso</a>
+Uma inspeção foi realizada sobre a documento sinalizando se determinado tópico estava sendo atendido (&#10004) ou não (&#10006) na documentação referente aos <a href="../../../modelagem/casosUso">Casos de Uso</a>
 </p>
 
 ## Checklist

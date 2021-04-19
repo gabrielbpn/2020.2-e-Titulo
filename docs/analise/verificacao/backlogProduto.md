@@ -4,13 +4,13 @@
 
 <p style="text-indent: 20px; text-align: justify"> 
 Esse documento tem como objetivo traçar a verificação do Backlog do Produto e todas as histórias de usuários que nós implementamos anteriormente a respeito do aplicativo E-Título. 
-<p\>
+</p>
 
 ### 2. Inspeção
 
 <p style="text-indent: 20px; text-align: justify"> 
 Nessa etapa, nós iremos realizar a verificação individual de cada história de usuário presente no nosso já listado Backlog do Produto. O foco aqui é justamente fazer essa análise das respostas para cada pergunta listada em cada história de usuário.
-<p\>
+</p>
 
 ### Checklist
 
