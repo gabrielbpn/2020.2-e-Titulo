@@ -49,14 +49,14 @@ nav:
           - Introdução: analise/verificacao/introducao.md
           - Rich Pictures: analise/verificacao/richPicture.md
           - Casos de Uso: analise/verificacao/casosUso.md
-#           - Cenários: analise/verificacao/cenarios.md
+          - Cenários: analise/verificacao/cenarios.md
 #           - Léxicos: analise/verificacao/lexicos.md
 #           - NFR Framework: analise/verificacao/nfrFramework.md
-#           - Backlog do Produto: analise/verificacao/backlogProduto.md
+          - Backlog do Produto: analise/verificacao/backlogProduto.md
       - Validação:
             - Informal: analise/validacao/informal.md
             - Protótipo: analise/validacao/prototipo.md
-#             - Viewpoint: analise/validacao/viewpoint.md
+            - Viewpoint: analise/validacao/viewpoint.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
