@@ -1,13 +1,13 @@
 site_name: e-Título
 
 repo_url: https://github.com/Requisitos-de-Software/2020.2-e-Titulo
-repo_name: 'e-Título'
+repo_name: "e-Título"
 
 theme:
   name: material
-  language: 'pt'
-  logo: 'assets/icons/eTitulo.png'
-  favicon: 'assets/icons/codercat.png'
+  language: "pt"
+  logo: "assets/icons/eTitulo.png"
+  favicon: "assets/icons/codercat.png"
   # features:
   #   - navigation.tabs
 
@@ -50,13 +50,13 @@ nav:
           - Rich Pictures: analise/verificacao/richPicture.md
           - Casos de Uso: analise/verificacao/casosUso.md
           - Cenários: analise/verificacao/cenarios.md
-#           - Léxicos: analise/verificacao/lexicos.md
-#           - NFR Framework: analise/verificacao/nfrFramework.md
+          - Léxicos: analise/verificacao/lexicos.md
+          - NFR Framework: analise/verificacao/nfrFramework.md
           - Backlog do Produto: analise/verificacao/backlogProduto.md
       - Validação:
-            - Informal: analise/validacao/informal.md
-            - Protótipo: analise/validacao/prototipo.md
-            - Viewpoint: analise/validacao/viewpoint.md
+          - Informal: analise/validacao/informal.md
+          - Protótipo: analise/validacao/prototipo.md
+          - Viewpoint: analise/validacao/viewpoint.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md

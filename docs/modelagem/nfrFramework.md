@@ -41,7 +41,7 @@ Para lidar com uma variedade de alternativas de desenvolvimento, os desenvolvedo
   <figcaption>Figura 3 - Rótulos que as softgoals podem ou não ter</figcaption>
 </div>
 
-## Non-Functional requirements (NFR) Framework 
+## Non-Functional requirements (NFR) Framework
 
 <p style="text-indent: 20px; text-align: justify">
 Todos o diagramas abaixo são baseados nos testes e análise de documentos da aplicação, sendo muito dos contextos inferidos por meio do uso exploratório do e-Título.
@@ -50,7 +50,7 @@ Todos o diagramas abaixo são baseados nos testes e análise de documentos da ap
 ### Geral
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="800px" src="../../assets/nfr/geral.png">
+  <img width="800px" src="../../assets/analise/verificado_geral.png">
   <figcaption>Figura 4 - Representação geral</figcaption>
 </div>
 
@@ -61,48 +61,96 @@ Todos o diagramas abaixo são baseados nos testes e análise de documentos da ap
   <figcaption>Figura 5 - Representação da Confiabilidade</figcaption>
 </div>
 
+#### Avaliação
+
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../../assets/analise/verificado_confiabilidade.png">
+  <figcaption>Figura 6 - Avaliação da Confiabilidade</figcaption>
+</div>
+
 ### Custo
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <img width="800px" src="../../assets/nfr/custo.png">
-  <figcaption>Figura 6 - Representação do Custo</figcaption>
+  <figcaption>Figura 7 - Representação do Custo</figcaption>
+</div>
+
+#### Avaliação
+
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../../assets/analise/verificado_custo.png">
+  <figcaption>Figura 8 - Avaliação do Custo</figcaption>
 </div>
 
 ### Desempenho
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <img width="800px" src="../../assets/nfr/desempenho.png">
-  <figcaption>Figura 7 - Representação do Desempenho</figcaption>
+  <figcaption>Figura 9 - Representação do Desempenho</figcaption>
+</div>
+
+#### Avaliação
+
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../../assets/analise/verificado_desempenho.png">
+  <figcaption>Figura 10 - Avaliação do Desempenho</figcaption>
 </div>
 
 ### Manutenibilidade
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <img width="800px" src="../../assets/nfr/manutenibilidade.png">
-  <figcaption>Figura 8 - Representação da Manutenibilidade</figcaption>
+  <figcaption>Figura 11 - Representação da Manutenibilidade</figcaption>
+</div>
+
+#### Avaliação
+
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../../assets/analise/verificado_manutenibilidade.png">
+  <figcaption>Figura 12 - Avaliação da Manutenibilidade</figcaption>
 </div>
 
 ### Segurança
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <img width="800px" src="../../assets/nfr/seguranca.png">
-  <figcaption>Figura 9 - Representação da Segurança</figcaption>
+  <figcaption>Figura 13 - Representação da Segurança</figcaption>
+</div>
+
+#### Avaliação
+
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../../assets/analise/verificado_seguranca.png">
+  <figcaption>Figura 14 - Avaliação da Segurança</figcaption>
 </div>
 
 ### Usabilidade
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <img width="800px" src="../../assets/nfr/usabilidade.png">
-  <figcaption>Figura 10 - Representação da Usabilidade</figcaption>
+  <figcaption>Figura 15 - Representação da Usabilidade</figcaption>
+</div>
+
+#### Avaliação
+
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../../assets/analise/verificado_usabilidade.png">
+  <figcaption>Figura 16 - Avaliação da Usabilidade</figcaption>
 </div>
 
 ### Portabilidade
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <img width="800px" src="../../assets/nfr/portabilidade.png">
-  <figcaption>Figura 11 - Representação da Portabilidade</figcaption>
+  <figcaption>Figura 17 - Representação da Portabilidade</figcaption>
 </div>
 
+#### Avaliação
+
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="800px" src="../../assets/analise/verificado_portabilidade.png">
+  <figcaption>Figura 18 - Avaliação da Portabilidade</figcaption>
+</div>
 
 ## Referência
 
@@ -112,7 +160,7 @@ Todos o diagramas abaixo são baseados nos testes e análise de documentos da ap
 
 ### Versionamento
 
-| Versão | Data | Modificação | Autor |
-|--|--|--|--|
-| 1.0 | 24/03/2021 | NFR framework desenvolvido | Guilherme e Ítalo |
-| 1.1 | 15/04/2021 | NFR framework retrabalhado | Guilherme |
+| Versão | Data       | Modificação                                 | Autor             |
+| ------ | ---------- | ------------------------------------------- | ----------------- |
+| 1.0    | 24/03/2021 | NFR framework desenvolvido                  | Guilherme e Ítalo |
+| 1.1    | 15/04/2021 | NFR framework retrabalhado após verificação | Guilherme         |
