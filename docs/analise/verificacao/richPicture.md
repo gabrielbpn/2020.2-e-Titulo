@@ -48,7 +48,11 @@ Uma inspeção foi realizada sobre a documento sinalizando se determinado tópic
 <a>OBS.:</a> Os campos vazios são referentes a tópicos que não se aplicam a determinada situação.
 </p>
 
+## Resultados
 
+<p style="text-indent: 20px; text-align: justify">
+Após a inspeção, pode ser verificado erros na primeira versão do Rich Picture que o grupo produziu, que na tabela acima é demarcada pela coluna "RP01", porém nenhum retrabalho precisou ser realizado, pois já havíamos modificado o Rich Picture para sua segunda versão, que na tabela acima é demarcada pelas colunas que possuem as iniciais "RP02", após o feedback que o professor e os monitores passaram, além de estudos mais aprofundados e consultas em exemplos que estavam contidos no Repositório da disciplina no GitHub, na documentação pertencente à grupos dos semestres passados.
+</p>
 
 ## Referências
 > SOMMERVILLE, Ian. Engenharia de Software. 9.ed. São Paulo: Pearson Prentice Hall, 2011. 529 p.
@@ -56,4 +60,4 @@ Uma inspeção foi realizada sobre a documento sinalizando se determinado tópic
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 14/04/2021 | introdução ao processo de Verificação | Ian |
+| 1.0 | 14/04/2021 | Verificação do Rich Picture | Ian |

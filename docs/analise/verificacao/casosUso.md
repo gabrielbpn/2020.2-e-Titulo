@@ -33,7 +33,7 @@ Uma inspeção foi realizada sobre a documento sinalizando se determinado tópic
 |Id Checklist|Documento|Caso de uso geral|Caso de uso específico|Caso 1|Caso 2|Caso 3|Caso 4|Caso 5|Caso 6|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |1|&#10004|||||||||
-|2||&#10004|&#10006|||||||
+|2||&#10004|&#10004|||||||
 |3||&#10004|&#10004|||||||
 |4||&#10004|&#10004|||||||
 |5||&#10004|&#10004|&#10004|&#10004|&#10004|&#10004|&#10004|&#10004|
@@ -50,12 +50,18 @@ Uma inspeção foi realizada sobre a documento sinalizando se determinado tópic
 <a>OBS.:</a> Os campos vazios são referentes a tópicos que não se aplicam a determinada situação.
 </p>
 
+## Resultados
+
+<p style="text-indent: 20px; text-align: justify">
+A princípio não foi verificado nenhum erro na documentação de Casos de Uso.
+</p>
+
 ## Referências
 > SOMMERVILLE, Ian. Engenharia de Software. 9.ed. São Paulo: Pearson Prentice Hall, 2011. 529 p.
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 14/04/2021 | introdução ao processo de Verificação | Ian |
+| 1.0 | 14/04/2021 | Verificação dos Casos de Uso | Ian |
 
 
