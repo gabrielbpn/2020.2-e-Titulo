@@ -19,6 +19,7 @@ Dentro do contexto de uma <i>view</i> existem três perspectivas possiveis, some
 
 ## *Viewpoint* A
 
+```
 Perspectiva de Processo:
     ((usuario =id-usuario =nome =numero-titulo)
      (titulo =numero-titulo =zona-eleitoral =secao)
@@ -48,9 +49,11 @@ Hierarquia:
        (objeto (documentos certidao-nada-consta certidao-quitacao guia-debito-eleitoral)
                (autenticacao qrcode codigo-de-validacao))
        (objeto (notificacoes noticias horario-eleicao)))
+```
 
 ## *Viewpoint* B
 
+```
 Perspectiva de Processo:
     ((usuario =id-usuario =nome =numero-titulo =email =senha =cep =biometria)
      (titulo =numero-titulo =zona-eleitoral =secao)
@@ -77,6 +80,7 @@ Hierarquia:
        (objeto (documentos certidao-nada-consta certidao-quitacao guia-debito-eleitoral)
                (usuario id-usuario nome numero-titulo email senha cep biometria)
                (autenticacao qrcode codigo-de-validacao)))
+```
 
 ## Identificação e Classificação
 
