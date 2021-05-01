@@ -8,8 +8,8 @@ theme:
   language: "pt"
   logo: "assets/icons/eTitulo.png"
   favicon: "assets/icons/codercat.png"
-  # features:
-  #   - navigation.tabs
+  icon:
+    repo: fontawesome/brands/github
 
 extra_css:
   - stylesheets/extra.css
@@ -63,6 +63,7 @@ nav:
       - Apresentação 3: apresentacoes/apresentacao3.md
       - Apresentação 4: apresentacoes/apresentacao4.md
       - Apresentação 5: apresentacoes/apresentacao5.md
+    #   - Apresentação Final: apresentacoes/apresentacao6.md
   - Atas:
       - 03/03/2021: atas/reuniao_03_03.md
       - 10/03/2021: atas/reuniao_03_10.md
@@ -71,3 +72,5 @@ nav:
       - 31/03/2021: atas/reuniao_03_31.md
       - 07/04/2021: atas/reuniao_04_07.md
       - 14/04/2021: atas/reuniao_04_14.md
+      - 28/04/2021: atas/reuniao_04_28.md
+      - 30/04/2021: atas/reuniao_04_30.md

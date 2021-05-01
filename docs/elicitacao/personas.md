@@ -1,4 +1,4 @@
-## Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 Uma persona é um personagem fictício, que representam um grupo de usuários reais, criada para descrever um usuário típico. É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. 
@@ -18,9 +18,13 @@ Uma persona, deve possuir os seguintes elementos característicos:
 
 <p style="text-indent: 20px; text-align: justify">
 As personas foram criadas no intuito de utilizá-las na técnica de Introspecção para a elicitação de requisitos.
-</p>|
+</p>
 
-## Persona 1
+## 2. Personas
+
+### 2.1 Persona 1
+
+<center>
 
 | Persona | Camila dos Santos Luz|
 |--|--|
@@ -36,8 +40,13 @@ As personas foram criadas no intuito de utilizá-las na técnica de Introspecç�
 | Tarefas: | Durante a manhã realiza palestra em empresas por todo Brasil, no período da tarde cuida de seus negócios de maneira virtual.|
 | Expectativas: | Utilizar o aplicativo como documento de identificação oficial nos aeroportos, como principal objetivo. Utilizar também, nos dias das eleições, poder justificar sua ausência, de maneira online.|
 
+<figcaption style="display: flex; flex-flow: row wrap; justify-content: center; margin-top: 0px">Tabela 1 - Persona Camila</figcaption>
 
-## Persona 2
+</center>
+
+### 2.2 Persona 2
+
+<center>
 
 | Persona | Milton de Souza Oliveira|
 |--|--|
@@ -53,8 +62,13 @@ As personas foram criadas no intuito de utilizá-las na técnica de Introspecç�
 | Tarefas: | Gasta a maioria do seu dia focado em seu negócio, que leva praticamente sozinho, com seus filhos o ajudando pouco (por preferência dele mesmo). Durante a noite e finais de semana, gosta de gastar seu tempo com seus amigos, vendo notícias e esportes. Precisa cuidar do seu irmão, que está um pouco perdido na vida, e usa drogas.|
 | Expectativas: | Apenas deseja que o produto o auxilie de forma rápida e seja fácil de utilizar, para que não tenha problemas na eleição. Gostaria que pudesse ver não só o lugar onde vota, mas também do seu irmão, que ele sempre ajuda nesse tipo de coisa séria da vida.|
 
+<figcaption style="display: flex; flex-flow: row wrap; justify-content: center; margin-top: 0px">Tabela 2 - Persona Milton</figcaption>
 
-## Persona 3
+</center>
+
+### 2.3 Persona 3
+
+<center>
 
 | Persona | Felipe Albuquerque Pereira Junior|
 |--|--|
@@ -70,8 +84,13 @@ As personas foram criadas no intuito de utilizá-las na técnica de Introspecç�
 | Tarefas: | Ocupa todo o seu dia procurando novas formas de alcançar o seu objetivo de ser um exímio fotógrafo. Trabalha de 12 a 14 horas por dia para sustentar suas filhas. A cada duas semanas, vai a São Paulo visitá-las na casa de sua irmã. Aos finais de semana, busca relaxar, escutar boas músicas, assistir filmes e participar da missa.|
 | Expectativas: | Deseja que o produto possa disponibilizar a opção de justificar sua ausência em eleições, já que muitas vezes ele não estará disponível na sua região eleitoral para exercer seu direito. Isso o agrada já que sua esperança não está no governo.|
 
+<figcaption style="display: flex; flex-flow: row wrap; justify-content: center; margin-top: 0px">Tabela 3 - Persona Felipe</figcaption>
 
-## Persona 4
+</center>
+
+### 2.4 Persona 4
+
+<center>
 
 | Persona | Samantha Anjos Ferreira|
 |--|--|
@@ -87,8 +106,13 @@ As personas foram criadas no intuito de utilizá-las na técnica de Introspecç�
 | Tarefas: | Estuda durante metade do seu dia em sua universidade, e na outra metade, realiza estágio no Superior Tribunal de Justiça. Em algumas horas vagas, gosta de sair com suas amigas e com seu namorado. Nas madrugadas, joga Fifa Ultimate Team.|
 | Expectativas: | Como ela tem muita vontade de atuar na área de Direito, gostaria muito de adquirir experiência com mesária, assim, espera que o aplicativo aborde essa função, auxiliando no processo de voluntariado durante as eleições.|
 
+<figcaption style="display: flex; flex-flow: row wrap; justify-content: center; margin-top: 0px">Tabela 4 - Persona Samantha</figcaption>
 
-## Persona 5
+</center>
+
+### 2.5 Persona 5
+
+<center>
 
 | Persona | Isabela Moreira|
 |--|--|
@@ -104,8 +128,13 @@ As personas foram criadas no intuito de utilizá-las na técnica de Introspecç�
 | Tarefas: | Gasta a maior parte do seu dia conversando com suas amigas na escola. Depois, assiste a seus filmes e séries. |
 | Expectativas: | Espera que o aplicativo seja útil quando a mãe dela mandar usar, caso venha a perder o seu título de eleitor.|
 
+<figcaption style="display: flex; flex-flow: row wrap; justify-content: center; margin-top: 0px">Tabela 5 - Persona Isabela</figcaption>
 
-## Persona 6
+</center>
+
+### 2.6 Persona 6
+
+<center>
 
 | Persona | Ademir Barbosa|
 |--|--|
@@ -121,16 +150,21 @@ As personas foram criadas no intuito de utilizá-las na técnica de Introspecç�
 | Tarefas: | Gasta a maior parte do seu dia sem fazer muita coisa. Cozinha, lê e conversa com sua esposa. Às vezes seus filhos o buscam para ir à sua casa.|
 | Expectativas: | É um eleitor com prazer, mas não gosta de usar esses aplicativos de documentos. Seu negócio é papel, não tem interesse. Seu filho instalou no seu celular para caso precise, mas o seu Ademir nem consegue enxergar o que está escrito nos botões.|
 
+<figcaption style="display: flex; flex-flow: row wrap; justify-content: center; margin-top: 0px">Tabela 6 - Persona Ademir</figcaption>
+
+</center>
 
 <p style="text-indent: 20px; text-align: justify">
 As imagens das personas foram tiradas do site <a href="https://www.pexels.com/pt-br/" target="_blank">Pexels</a>, na qual todas a fotos podem ser usadas de forma gratuita e a citação de créditos não é obrigatória, como pode ser visto no <a href="https://www.pexels.com/pt-br/licenca/" target="_blank">link</a>.
 </p>
 
-## Referência
+## Referências e Bibliografias
 
 >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 10/03/2021 | Criação das personas | Gabriel, Guilherme, João Pedro |
+| 1.0 | 10/03/2021 | Criação das personas | Gabriel, Guilherme e João Pedro |
+| 2.0 | 30/04/2021 | Adição de legenda às tabelas | Guilherme |
+| 2.1 | 30/04/2021 | Enumeração dos tópicos e centralização das tabelas | Gabriel e Ítalo |

@@ -1,10 +1,12 @@
-## Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 A partir das três técnicas que aplicamos no projeto: Brainstorming, Introspecção e Questionário, foi possível fazer a elicitação dos requisitos funcionais e não funcionais abaixo.
 </p>
 
-## Requisitos funcionais
+## 2. Requisitos funcionais
+
+<center>
 
 | Identificação | Requisito | Técnica utilizada |
 | :--: |--|:--:|
@@ -39,11 +41,17 @@ A partir das três técnicas que aplicamos no projeto: Brainstorming, Introspec�
 | RF29 | Enviar alerta de horário da votação | Brainstorming |
 | RF30 | Ativar modo escuro | Brainstorming |
 | RF31 | Ativar e desativar notificações | Brainstorming |
-| RF32 | Desativar conta no E-Título | Brainstorming |
+| RF32 | Desativar conta no e-Título | Brainstorming |
 | RF33 | Enviar feedback | Brainstorming |
-| RF34 | Alterar CEP pelo E-Título | Brainstorming |
+| RF34 | Alterar CEP pelo e-Título | Brainstorming |
 
-## Requisitos não funcionais
+<figcaption>Tabela 1: Listagem dos requisitos funcionais do aplicativos e-Título</figcaption>
+
+</center>
+
+## 3. Requisitos não funcionais
+
+<center>
 
 | Identificação | Requisito | Técnica utilizada |
 | :--: |--|:--:|
@@ -61,9 +69,14 @@ A partir das três técnicas que aplicamos no projeto: Brainstorming, Introspec�
 | RNF12 | As notícias sobre a eleição deverão ser imparciais | Brainstorming |
 | RNF13 | O aplicativo deverá ter um design intuitivo | Brainstorming |
 
+<figcaption>Tabela 2: Listagem dos requisitos não funcionais do aplicativo e-Título</figcaption>
+
+</center>
+
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/03/2021 | Elicitação dos requisitos | Gabriel, Guilherme, Ian, Ítalo, João Pedro |
 | 1.0.1 | 18/03/2021 | Revisão gramatical | Ítalo |
+| 2.0 | 30/04/2021 | Uniformizando sub-títulos, centralizando tabelas e adicionando legendas | Ítalo |

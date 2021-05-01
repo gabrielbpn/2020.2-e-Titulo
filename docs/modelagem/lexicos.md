@@ -1,20 +1,27 @@
-## Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 Durante o processo de elicitação termos próprios do domínio da aplicação são utilizados por clientes e usuários, e também estão presentes na documentação manipulada. Considerando que neste processo participam profissionais com diferentes funções e competências, termos técnicos ou de significado diverso do usual podem dar margem a diferentes interpretações para um mesmo termo ou expressão. A necessidade de um léxico para a aplicação é justificada pela necessidade de que todos os participantes compartilhem uma mesma compreensão dos termos próprios do domínio.
 </p>
 
-## Técnica utilizada para a definição dos léxicos
+## 2. Técnica utilizada para a definição dos léxicos
 
 <p style="text-indent: 20px; text-align: justify">
 Para a definição dos léxicos, utilizamos a técnica Léxico Ampliado da Linguagem (LAL), que é uma técnica utilizada de maneira a retratar a classificação, a noção e o impacto, permitindo também a nomeação de um sinônimo para cada elemento.
 </p>
 
+<center>
+
 |                  Título                   |                        Classificação                        |                  Noção                   |                  Impacto                   |                   Sinônimos                    |
 | :---------------------------------------: | :---------------------------------------------------------: | :--------------------------------------: | :----------------------------------------: | :--------------------------------------------: |
 | Termo existente em um contexto específico | - Sujeito <br/> - Verbo <br/> - Objeto <br/> - Estado <br/> | O que o termo significa naquele contexto | Como o termo exerce influência no contexto | Sinônimo que auxilia a compreensão do contexto |
 
-## Léxico
+<figcaption>Tabela 1 - Descrição de cada categoria para a definição do Léxico</figcaption>
+</center>
+
+## 3. Léxico
+
+<center>
 
 |      Título       | Classificação |                                                                 Noção                                                                 |                              Impacto                              |       Sinônimos       |
 | :---------------: | :-----------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: | :-------------------: |
@@ -32,7 +39,10 @@ Para a definição dos léxicos, utilizamos a técnica Léxico Ampliado da Lingu
 |       Ajuda       |    Objeto     |                       Pode-se ser ajudado após a visualização das perguntas e respostas já ditas no aplicativo                        |            Usuário ciente da resposta para sua dúvida             |        Auxílio        |
 |      Seguro       |    Estado     |                                    Pode-se trocar a senha e desbloquear a biometria no aplicativo                                     |       Usuário com acesso mais seguro para proteger a conta        |       Proteção        |
 
-## Referências
+<figcaption>Tabela 2 - Definindo os léxicos das funções do e-Título</figcaption>
+</center>
+
+## Referências e Bibliografias
 
 > Sayão, M.; Carvalho, G. R. Construção do léxico de aplicações. Faculdade de Informática - Pontifícia Universidade Católica do Rio Grande do Sul, 2006.
 
@@ -42,3 +52,4 @@ Para a definição dos léxicos, utilizamos a técnica Léxico Ampliado da Lingu
 | ------ | ---------- | -------------------------------------------- | -------------------- |
 | 1.0    | 19/03/2021 | Definição dos léxicos                        | Todos os integrantes |
 | 1.1    | 15/04/2021 | Retrabalho sobre os léxicos após verificação | Guilherme            |
+| 2.0    | 30/04/2021 | Adicionando legenda nas tabelas              | Ian            |

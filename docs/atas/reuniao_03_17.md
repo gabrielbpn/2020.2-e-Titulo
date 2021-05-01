@@ -7,7 +7,7 @@ Chamada online no Discord
 
 - Guilherme Richter
 - Ian Ferreira
-- Italo Guimaraes
+- Italo Guimarães
 - João Pedro
 
 ## Assuntos discutidos

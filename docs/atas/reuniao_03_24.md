@@ -8,7 +8,7 @@ Chamada online no Discord
 - Gabriel Bonifácio
 - Guilherme Richter
 - Ian Ferreira
-- Italo Guimaraes
+- Italo Guimarães
 - João Pedro
 
 ## Assuntos discutidos

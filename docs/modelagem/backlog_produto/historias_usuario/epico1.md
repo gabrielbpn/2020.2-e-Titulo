@@ -1,6 +1,4 @@
-# Épico 01 - Conta de Usuário
-
-## US01 - Verificar autenticidade dos documentos
+## 1. US01 - Verificar autenticidade dos documentos
 
 <div style="text-align: justify">
 Eu, como <b>usuário</b>, quero <b>verificar autenticidade dos meus documentos</b> para que eu <b>possa utilizar o app</b>.
@@ -9,10 +7,10 @@ Eu, como <b>usuário</b>, quero <b>verificar autenticidade dos meus documentos</
 Critérios de aceitação:
 
 - <div style="text-align: justify">Deve conter um botão de verificação de documentos para entrar no aplicativo</div>
-- <div style="text-align: justify">Deve acontecer uma conexão com o E-Título</div>
+- <div style="text-align: justify">Deve acontecer uma conexão com o e-Título</div>
 - <div style="text-align: justify">Deve apresentar campos para preenchimentos dos dados do usuário</div>
 
-## US02 - Poder acessar o aplicativo por biometria digital
+## 2. US02 - Poder acessar o aplicativo por biometria digital
 
 <div style="text-align: justify">
 Eu, como <b>usuário</b>, quero <b>poder acessar o aplicativo por biometria digital</b> para que eu <b>possa facilitar a minha entrada no aplicativo</b>.
@@ -20,10 +18,10 @@ Eu, como <b>usuário</b>, quero <b>poder acessar o aplicativo por biometria digi
 
 Critérios de aceitação:
 
-- <div style="text-align: justify">Deve acontecer uma conexão com o E-Título</div>
+- <div style="text-align: justify">Deve acontecer uma conexão com o e-Título</div>
 - <div style="text-align: justify">Deve apresentar um botão para solicitar a utilização da biometria digital</div>
 
-## US03 - Certificar que possuo o título de eleitor
+## 3. US03 - Certificar que possuo o título de eleitor
 
 <div style="text-align: justify">
 Eu, como <b>usuário</b>, quero <b>certificar que eu possuo o título de eleitor</b> para que eu <b>não precise andar com o título físico</b>.
@@ -31,10 +29,10 @@ Eu, como <b>usuário</b>, quero <b>certificar que eu possuo o título de eleitor
 
 Critérios de aceitação:
 
-- <div style="text-align: justify">Deve acontecer uma conexão com o E-Título</div>
+- <div style="text-align: justify">Deve acontecer uma conexão com o e-Título</div>
 - <div style="text-align: justify">Deve apresentar área para preenchimento da senha e CPF do usuário, ou botão para solicitar a utilização da biometria digital</div>
 
-## US04 - Ter foto para fazer reconhecimento
+## 4. US04 - Ter foto para fazer reconhecimento
 
 <div style="text-align: justify">
 Eu, como <b>usuário</b>, quero <b>ter minha foto para fazer reconhecimento</b> para que eu <b>possa me identificar pelo aplicativo</b>.
@@ -42,9 +40,9 @@ Eu, como <b>usuário</b>, quero <b>ter minha foto para fazer reconhecimento</b> 
 
 Critérios de aceitação:
 
-- <div style="text-align: justify">Deve acontecer uma conexão entre o banco de dados da Justiça Eleitoral e o E-Título</div>
+- <div style="text-align: justify">Deve acontecer uma conexão entre o banco de dados da Justiça Eleitoral e o e-Título</div>
 
-## US05 - Ter os dados pessoais
+## 5. US05 - Ter os dados pessoais
 
 <div style="text-align: justify">
 Eu, como <b>usuário</b>, quero <b>ter os meus dados pessoais</b> para que eu <b>acesse os meus dados de maneira fácil</b>.
@@ -54,7 +52,7 @@ Critérios de aceitação:
 
 - <div style="text-align: justify">Deve conter uma página com todas as informações pessoais do usuário</div>
 
-## US06 - Poder trocar a senha
+## 6. US06 - Poder trocar a senha
 
 <div style="text-align: justify">
 Eu, como <b>usuário</b>, quero <b>poder trocar a senha</b> para que eu <b>tenha mais segurança</b>.
@@ -66,20 +64,20 @@ Critérios de aceitação:
 - <div style="text-align: justify">Deve conter uma página pedindo a senha antiga e um campo de senha nova</div>
 - <div style="text-align: justify">Deve salvar a nova senha válida do usuário</div>
 
-## US07 - Desativar a conta no E-Título
+## 7. US07 - Desativar a conta no e-Título
 
 <div style="text-align: justify">
-Eu, como <b>usuário</b>, quero <b>desativar a conta no E-Título</b> para que eu <b>tenha a liberdade de parar de usar o aplicativo</b>.
+Eu, como <b>usuário</b>, quero <b>desativar a conta no e-Título</b> para que eu <b>tenha a liberdade de parar de usar o aplicativo</b>.
 </div>
 
 Critérios de aceitação:
 
 - <div style="text-align: justify">Deve conter um botão para desativar a conta</div>
 
-## US08 - Alterar o CEP pelo E-Título
+## 8. US08 - Alterar o CEP pelo e-Título
 
 <div style="text-align: justify">
-Eu, como <b>usuário</b>, quero <b>alterar o CEP pelo E-Título</b> para que eu <b>tenha mais facilidade caso me mude</b>.
+Eu, como <b>usuário</b>, quero <b>alterar o CEP pelo e-Título</b> para que eu <b>tenha mais facilidade caso me mude</b>.
 </div>
 
 Critérios de aceitação:

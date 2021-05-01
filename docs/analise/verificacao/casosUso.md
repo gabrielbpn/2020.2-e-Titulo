@@ -1,16 +1,18 @@
-## Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 Esse documento tem o objetivo de realizar o processo de Verificação dos Casos de Usos que foram modelados sobre o aplicativo e-Título. 
 </p>
 
-## Metodologia
+## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-Uma inspeção foi realizada sobre a documento sinalizando se determinado tópico estava sendo atendido (&#10004) ou não (&#10006) na documentação referente aos <a href="../../../modelagem/casosUso">Casos de Uso</a>
+Uma inspeção foi realizada sobre a documento sinalizando se determinado tópico estava sendo atendido (&#10004) ou não (&#10006) na documentação referente aos <a href="../../../modelagem/casosUso">Casos de Uso.</a>
 </p>
 
-## Checklist
+## 3. Checklist
+
+<center>
 
 |Id|Tópico|
 |:--:|:--|
@@ -28,7 +30,12 @@ Uma inspeção foi realizada sobre a documento sinalizando se determinado tópic
 |12|É relatado a ferramenta utilizada para fazer o Rich Picture?|
 |13|O documento está gramaticalmente correto?|
 
-## Verificação dos Casos de Uso utilizando o checklist
+<figcaption>Tabela 1 - Checklist para avaliar os casos de uso</figcaption>
+</center>
+
+## 4. Verificação dos Casos de Uso utilizando o checklist
+
+<center>
 
 |Id Checklist|Documento|Caso de uso geral|Caso de uso específico|Caso 1|Caso 2|Caso 3|Caso 4|Caso 5|Caso 6|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -46,22 +53,26 @@ Uma inspeção foi realizada sobre a documento sinalizando se determinado tópic
 |11|&#10004|||||||||
 |12|&#10004|&#10004|&#10004|&#10004|&#10004|&#10004|&#10004|&#10004|&#10004|
 
+<figcaption>Tabela 2 - Verificação dos casos de uso</figcaption>
+</center>
+
 <p style="text-indent: 20px; text-align: justify">
 <a>OBS.:</a> Os campos vazios são referentes a tópicos que não se aplicam a determinada situação.
 </p>
 
-## Resultados
+## 5. Resultados
 
 <p style="text-indent: 20px; text-align: justify">
 A princípio não foi verificado nenhum erro na documentação de Casos de Uso.
 </p>
 
-## Referências
+## Referências e Bibliografias
 > SOMMERVILLE, Ian. Engenharia de Software. 9.ed. São Paulo: Pearson Prentice Hall, 2011. 529 p.
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 14/04/2021 | Verificação dos Casos de Uso | Ian |
+| 1.1 | 30/04/2021 | Adição de legenda às tabelas | Guilherme |
 
 

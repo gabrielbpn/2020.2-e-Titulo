@@ -1,6 +1,4 @@
-# Épico 05 - Documentação
-
-## US31 - Verificar o guia para o pagamento de débitos eleitorais
+## 1. US31 - Verificar o guia para o pagamento de débitos eleitorais
 
 <div style="text-align: justify">
 Eu, como um <b>usuário</b>, quero <b>verificar o guia para o pagamento de débitos eleitorais</b> para que eu <b>visualize o valor e emita o guia de pagamento</b>.
@@ -10,7 +8,7 @@ Critérios de aceitação:
 
 - <div style="text-align: justify">Deve conter um local específico para visualizar o guia de débitos eleitorais</div>
 
-## US32 - Emitir o guia para o pagamento de débitos eleitorais
+## 2. US32 - Emitir o guia para o pagamento de débitos eleitorais
 
 <div style="text-align: justify">
 Eu, como um <b>usuário</b>, quero <b>emitir o guia para o pagamento de débitos eleitorais</b> para que eu <b>efetue o pagamento dos meus débitos eleitorais</b>.
@@ -20,7 +18,7 @@ Critérios de aceitação:
 
 - <div style="text-align: justify">Deve conter os dados necessários para que ao emitir o guia de débitos eleitorais, seja possível fazer o pagamento via celular, sem a necessidade de imprimir o guia</div>
 
-## US33 - Emitir certidão de quitação eleitoral
+## 3. US33 - Emitir certidão de quitação eleitoral
 
 <div style="text-align: justify">
 Eu, como um <b>usuário</b>, quero <b>emitir certidão de quitação eleitoral</b> para que eu <b>prove a minha identidade de pessoa física</b>.
@@ -30,7 +28,7 @@ Critérios de aceitação:
 
 - <div style="text-align: justify">Deve conter um local específico para visualizar a certidão de quitação eleitoral</div>
 
-## US34 - Emitir nada consta criminal eleitoral
+## 4. US34 - Emitir nada consta criminal eleitoral
 
 <div style="text-align: justify">
 Eu, como um <b>usuário</b>, quero <b>emitir nada consta criminal eleitoral</b> para que eu <b>prove minha legalidade</b>.
@@ -40,7 +38,7 @@ Critérios de aceitação:
 
 - <div style="text-align: justify">Deve conter um local específico para visualizar o nada consta criminal eleitoral</div>
 
-## US35 - Garantir que o aplicativo possa ser utilizado como documento oficial
+## 5. US35 - Garantir que o aplicativo possa ser utilizado como documento oficial
 
 <div style="text-align: justify">
 Eu, como um <b>usuário</b>, quero <b>garantir que o aplicativo possa ser utilizado como documento oficial</b> para que eu <b>prove a minha identidade de pessoa física</b>.

@@ -1,4 +1,4 @@
-## Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 Brainstorming é uma técnica que consiste em uma ou várias reuniões que permitem que as pessoas sugiram e explorem idéias, ou seja é uma técnica para geração de idéias.
@@ -8,15 +8,22 @@ Brainstorming é uma técnica que consiste em uma ou várias reuniões que permi
 O Brainstorming foi feito por todos os integrantes, no dia 11/03/2021, de forma virtual pela plataforma Discord. Nessa reunião não houve um condutor principal, ou seja, foi conduzido por todos os integrantes na medida que íamos conversando e alguma função ou requisito era comentado.
 </p>
 
-## Motivação para a escolha dessa técnica
+## 2. Motivação para a escolha dessa técnica
 
 <p style="text-indent: 20px; text-align: justify">
 Optamos pela técnica de Brainstorming, pois ela é uma técnica feita através de conversas e troca de ideias entre a própria equipe, logo, concluímos que seria uma técnica ideal para elicitar os requisitos, já que a conversa seria totalmente focada nesse objetivo, além de que, poderíamos guiar muito bem essa troca de ideias devido a experiência que temos com o aplicativo, tanto como usuário, como pessoas que estão usando o aplicativo como um objeto de análise, assim poderíamos avaliar o que já existia e o que deviria existir no aplicativo.
 </p>
 
+## 3. Como ocorreu
 
-## Requisitos funcionais
- 
+<p style="text-indent: 20px; text-align: justify">
+O grupo se reuniu a partir do Discord. Não houve um engenheiro de requisitos principal e todos trabalharam no mesmo nível de responsabilidade, a partir da discussão e do uso frequente do uso. Comentamos como ele é e como funciona, e a partir disso houve uma fomentação para que cada um disponibilizasse os requisitos que achavam que refletiam os app. Esta foi uma das melhores técnicas, pois listou a maior quantidade de requisitos que muitas vezes se não tivessemos feitos deste jeito, nunca iríamos pensar.
+</p>
+
+## 4. Requisitos funcionais
+
+<center>
+
 |Número | Requisito |
 |:--:|--|
 | 1 | Poder trocar a senha |
@@ -36,11 +43,17 @@ Optamos pela técnica de Brainstorming, pois ela é uma técnica feita através 
 | 15 | Enviar alerta de horário da votação |
 | 16 | Ativar modo escuro |
 | 17 | Ativar e desativar notificações |
-| 18 | Desativar conta no E-Título |
+| 18 | Desativar conta no e-Título |
 | 19 | Enviar feedback |
-| 20 | Alterar CEP pelo E-Título |
+| 20 | Alterar CEP pelo e-Título |
 
-## Requisitos não funcionais
+<figcaption style="display: flex; flex-flow: row wrap; justify-content: center; margin-top: 0px">Tabela 1 - Requisitos funcionais</figcaption>
+
+</center>
+
+## 5. Requisitos não funcionais
+
+<center>
 
 |Número | Requisito |
 |:--:|--|
@@ -51,8 +64,11 @@ Optamos pela técnica de Brainstorming, pois ela é uma técnica feita através 
 | 5 | As notícias sobre a eleição deverão ser imparciais |
 | 6 | O aplicativo deverá ter um design intuitivo |
 
+<figcaption style="display: flex; flex-flow: row wrap; justify-content: center; margin-top: 0px">Tabela 2 - Requisitos não funcionais</figcaption>
 
-## Referência
+</center>
+
+## Referências e Bibliografias
 
 >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
@@ -62,3 +78,5 @@ Optamos pela técnica de Brainstorming, pois ela é uma técnica feita através 
 | 1.0 | 11/03/2021 | Explicação da técnica de Brainstorming e do motivo pela escolha dela  | Ian|
 | 1.1 | 11/03/2021 | Elicitação dos requisitos pela técnica de Brainstorming | Gabriel, Guilherme, Ian, Ítalo, João Pedro |
 | 1.1.1 | 18/03/2021 | Revisão gramatical | Ian e Ítalo |
+| 2.0 | 30/04/2021 | Adicionando tópico "Como ocorreu" | Ítalo |
+| 2.1 | 30/04/2021 | Adicionando legenda às tabelas | Guilherme |

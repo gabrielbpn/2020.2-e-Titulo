@@ -1,16 +1,16 @@
-## Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 A partir da construção das entregas anteriores, precisamos confirmar se realmente atingimos os objetivos de forma clara e pontual do que foi desenvolvido.
 </p>
 
-## Objetivo
+## 2. Objetivo
 
 <p style="text-indent: 20px; text-align: justify">
 O objetivo desta validação informal é verificar com os próprios desenvolvedores do e-Título se realmente atingimos a engenharia de requisitos as quais eles também se basearam, ou seja, se é compatível o nosso trabalho ao contexto real da aplicação já desenvolvida pela Justiça eleitoral.
 </p>
 
-## Conclusão
+## 3. Conclusão
 
 <p style="text-indent: 20px; text-align: justify">
 A seguir está o email que enviamos para a equipe de desenvolvimento do aplicativo, o qual está listado na página do próprio aplicativo:
@@ -68,10 +68,6 @@ Por enquanto não há nada a concluir, enviamos o email e não recebemos respost
 
     Central de Serviços:  8800@tse.jus.br   
     +55 61 3030-8800
-
-## Referências
-
-> SOMMERVILLE, Ian. Engenharia de Software. 9.ed. São Paulo: Pearson Prentice Hall, 2011. 529 p.
 
 ## Versionamento
 
