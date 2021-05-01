@@ -19,6 +19,8 @@ Um Rich Picture é um artefato construído a fim de ilustrar e, assim, trazer um
 Após as consideração feitas pela o professor e um estudo mais aprofundado, foi criado um RichPicture para cada característica e atores que localizamos no aplicativo e-Título.
 </p>
 
+- Os diagramas podem ser acessados no <a href="https://lucid.app/lucidchart/invitations/accept/inv_54920f5c-7a30-4e36-8b01-2f2b900f4162" target="_blank">link</a>.
+
 ### 3.1 RP1 - Visão Geral
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
