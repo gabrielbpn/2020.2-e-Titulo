@@ -63,7 +63,7 @@ nav:
       - Apresentação 3: apresentacoes/apresentacao3.md
       - Apresentação 4: apresentacoes/apresentacao4.md
       - Apresentação 5: apresentacoes/apresentacao5.md
-    #   - Apresentação Final: apresentacoes/apresentacao6.md
+      - Apresentação Final: apresentacoes/apresentacao6.md
   - Atas:
       - 03/03/2021: atas/reuniao_03_03.md
       - 10/03/2021: atas/reuniao_03_10.md
