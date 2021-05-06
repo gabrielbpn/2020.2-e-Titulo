@@ -45,14 +45,14 @@ Após as consideração feitas pela o professor e um estudo mais aprofundado, fo
 ### 3.4 RP4 - Funções Adicionais
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto">
-  <img width="800" src="../../assets/richPictures/funcoesAdicionais.png" />
+  <img width="800" src="../../assets/richPictures/funcoes_adicionais.png" />
 <figcaption>Figura 5 - RichPicture: Funções Adicionais</figcaption>
 </div>
 
 ### 3.5 RP5 - Configurações
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto">
-  <img width="800" src="../../assets/richPictures/configuracoes.png" />
+  <img width="800" src="../../assets/richPictures/Configuracao.png" />
 <figcaption>Figura 6 - RichPicture: Configurações</figcaption>
 </div>
 
