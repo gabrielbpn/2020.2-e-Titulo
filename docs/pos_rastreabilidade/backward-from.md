@@ -83,3 +83,4 @@ Esse documento tem como objetivo representar a matriz de rastreabilidade Backwar
 |--|--|--|--|
 | 1.0 | 17/05/2021 | Criação do documento na WIKI | Guilherme |
 | 2.0 | 17/05/2021 | Preenchimento dos tópicos no documento | Gabriel |
+

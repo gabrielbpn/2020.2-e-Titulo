@@ -19,7 +19,7 @@ Esse documento tem como objetivo colocar a matriz de rastreabilidade Forward-To,
 <center>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="800px" src="../../../assets/backlog/backlog.png">
+  <img width="800px" src="../../assets/backlog/backlog.png">
   <figcaption>Figura 1 - Matriz forward-to de rastreabilidade, que é o backlog feito utilizando o Excel. Este é o <a href="https://1drv.ms/x/s!AtGes_O6JATWywXHpfMyw_s7eyet?e=yyYrAc" target="_blank">link</a> para a planilha.</figcaption>
 </div>
 
@@ -38,3 +38,4 @@ Esse documento tem como objetivo colocar a matriz de rastreabilidade Forward-To,
 |--|--|--|--|
 | 1.0 | 17/05/2021 | Criação do documento na WIKI | Guilherme |
 | 2.0 | 17/05/2021 | Preenchimento dos tópicos no documento | Gabriel |
+| 2.1 | 17/05/2021 | Correção da imagem da tabela | Ítalo |
